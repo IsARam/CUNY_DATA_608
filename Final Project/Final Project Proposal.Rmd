@@ -1,0 +1,35 @@
+---
+title: "Data 608 Final Project Proposal"
+author: "Isabel R"
+date: "3/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Task
+
+Your final project is to create a public visualization using data relevant to a current policy,business, or justice issue. You may use any dataset you can find for this assignment, aslong as it is either public or you have permission from the data’s owner/administrator to workwith it and share it.
+
+Recommended data sources are: governmental data, data provided by a non-profit/Nongovernmental organizations, and data available from large, semi-structured data sets (ie social networks, company financials, etc).
+
+You must document each step of your data analysis process (excluding data acquisition) in code: this will include changing the format of the data and the creation of any images or interactive displays that are made.
+
+You must also include a short (2-3 paragraph) write-up on the visualization. This write-up must include the following: the data source, what the parameters of the data set are (geography, timeframe, what the data points are, etc) what the data shows, and why it is important.
+
+# Data Source
+
+I was interested in analyzing Performance Data and Ridership within the Long Island Rail Road. I obtained the data from the MTA's Developer Reources, at:http://web.mta.info/persdashboard/perxml/MTA_Performance_Datall.zip. The data dictionary can be found at:http://web.mta.info/developers/Performance_Indicators_by%20Agency.xls.
+
+At the moment,there are dashboards that currently exists which displays visuals for OTP and Ridership.
+
+
+# Ridership
+
+The following dashboard http://lirrdashboard.mta.info/Home/Ridership shows Total Ridership for the agency as a whole comparing 2019 Actual vs. 2020 Actual. I wanted to create an interactive visual to show Ridership by branch but that information is not publically available. I would like to recreate this visual comparing 2018 Actual vs. 2019 Actual.The paramaters in the data set are timeframe (Months) for 2019 and 2020.The data points represent actual customers or ridership that the LIRR serves in millions. In the graphic the visual shows that ridership is highest in October. I would like to see the ridership trend, visually for several years. 
+
+![2019 Actuals vs. 2020 Actuals](2020-03-13 13_15_12-Window.png)
+
+
