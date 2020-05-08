@@ -1,0 +1,96 @@
+---
+title: "LIRR Ridership"
+author: "Isabel R"
+date: "5/15/2020"
+output: 
+  html_document:
+    toc: true 
+    toc_depth: 2
+    toc_float: true
+    code_folding : show
+    theme: united
+    highlight: tango
+---
+
+
+```{r setup, include=FALSE}
+library(dplyr);library(ggplot2)
+library(ggthemes); library(e1071); library(caTools); library(MASS); library(funModeling); library (plyr)
+```
+
+# Task
+
+Your final project is to create a public visualization using data relevant to a current policy,business, or justice issue. You may use any dataset you can find for this assignment, aslong as it is either public or you have permission from the data’s owner/administrator to workwith it and share it.
+
+Recommended data sources are: governmental data, data provided by a non-profit/Nongovernmental organizations, and data available from large, semi-structured data sets (ie social networks, company financials, etc).
+
+You must document each step of your data analysis process (excluding data acquisition) in code: this will include changing the format of the data and the creation of any images or interactive displays that are made.
+
+You must also include a short (2-3 paragraph) write-up on the visualization. This write-up must include the following: the data source, what the parameters of the data set are (geography, timeframe, what the data points are, etc) what the data shows, and why it is important.
+
+# Overview 
+For the DATA 608 Final project, I was interested in analyzing Long Island Rail Road Ridership statistics.I wanted to analyze and delve into the branch had the most ridership and determining which month had peak ridership.
+
+# Data
+
+I obtained the data from the MTA's Developer Reources, at:<br>
+http://web.mta.info/persdashboard/perxml/MTA_Performance_Datall.zip. 
+
+For my analysis I will be focusing on the following parameters:
+
+PARENT_SEQ = "20421"
+INDICATOR_NAME
+PERIOD_YEAR
+PERIOD_MONTH
+MONTHLY_ACTUAL
+
+The data dictionary can be found at:<br>
+http://web.mta.info/developers/Performance_Indicators_by%20Agency.xls.
+
+# Focus
+
+At the moment,there are dashboards that currently exists which displays visuals for Ridership and On-Time Performance (OTP). I wanted to create an interactive visual to show Ridership by branch which was not publically available however branch data was avalble for OTP.
+
+I would like analyze the following:<br>
+
+1.Which branch had the best overal OTP in 2018 and 2019.
+2.Which Month has the best overall OTP for all branches combined.
+
+
+## Ridership
+The following dashboard http://lirrdashboard.mta.info/Home/Ridership shows Total Ridership for the agency as a whole comparing 2019 Actual vs. 2020 Actual.
+
+I wanted to recreate this visual comparing 2018 Actual vs. 2019 Actual.The paramaters in the data set are timeframe (Months) for 2019 and 2020.The data points represent actual customers or ridership that the LIRR serves in millions. In the graphic, ridership is highest in October. I would like to see the ridership trend, visually for several years. 
+
+![2019 Actuals vs. 2020 Actuals](2020-03-13 13_15_12-Window.png)
+
+## On Time Performance
+
+The goal of the Performance Dashboard is to increase transparency at the MTA. The metric On Time Performance is the percent of commuter trains that arrive at their destinations within 5 minutes and 59 seconds of the scheduled tim. TheLIRR expects to acheive a system-wide on-time performance target of at least 95%.
+
+The following dashboard http://web.mta.info/persdashboard/performance14.html shows On Time Performance by Month for 2019 Actuals and 2020 Actuals. The dashboard does not seem to have been updated since January 2020.
+
+![On Time Performance Monthly - 2018 Actuals vs. 2019 Actuals](2020-03-13 10_09_47-MTA Stat Dashboard.png)
+
+The following dashboard http://lirrdashboard.mta.info/Home/Main shows On Time Performance by Month by Branch for 2018 Actuals, 2019 Actuals and 2020 Actuals.
+
+![On Time Performance Monthly By Branch - 2018 Actuals vs. 2019 Actuals vs. 2020 Actuals](2020-03-13 10_49_06-Long Island Rail Road Performance Dashboard.png)
+
+# Analysis
+
+## Data Load
+
+```{r}
+data <-read.csv("https://raw.githubusercontent.com/IsARam/CUNY_DATA_608/master/Final%20Project/MTA_Performance_LIRR.csv", header=TRUE, check.names = FALSE)
+
+# The following will filter for OTP.
+OTP<-data[ which(data$PARENT_SEQ=="20421"), ]
+
+# The following will remove unessesary columns.
+NEWOTP<-OTP[c(-1:-3, -5:-10, -13:-15)]
+
+# The following will convert Month from a numerical value to a string.
+NEWOTP1<-NEWOTP$PERIOD_MONTH<-with(NEWOTP, month.abb[PERIOD_MONTH])
+
+unique(NEWOTP$INDICATOR_NAME)
+```
