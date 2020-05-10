@@ -1,0 +1,1573 @@
+Indicator.Name,Period.Month,Period.Year,YTD.Target,YTD.Actual,Monthly.Target,Monthly.Actual,Period,Month_Name
+Overall,11,2018,94,90.2,94,86.9,2018-11,November
+Overall,10,2018,94,90.5,94,93.2,2018-10,October
+Overall,9,2018,94,90.2,94,92.4,2018-09,September
+Overall,8,2018,94,89.9,94,87.4,2018-08,August
+Overall,7,2018,94,90.3,94,88.9,2018-07,July
+Overall,6,2018,94,90.5,94,92.1,2018-06,June
+Overall,5,2018,94,90.2,94,92.3,2018-05,May
+Overall,4,2018,94,89.7,94,94,2018-04,April
+Overall,3,2018,94,88.26,94,88.07,2018-03,March
+Overall,2,2018,94,88.4,94,93.2,2018-02,February
+Overall,1,2018,94,83.9,94,83.9,2018-01,January
+Overall,12,2017,94,91.4,94,89.7,2017-12,December
+Overall,11,2017,94,91.5,94,91.6,2017-11,November
+Overall,10,2017,94,91.5,94,93.9,2017-10,October
+Overall,9,2017,94,91.3,94,93.6,2017-09,September
+Overall,8,2017,94,91,94,93.8,2017-08,August
+Overall,7,2017,94,90.6,94,93.1,2017-07,July
+Overall,6,2017,94,90.1,94,89,2017-06,June
+Overall,5,2017,94,90.4,94,89,2017-05,May
+Overall,4,2017,94,90.7,94,90.3,2017-04,April
+Overall,3,2017,94,90.9,94,90.9,2017-03,March
+Overall,2,2017,94,90.9,94,89.2,2017-02,February
+Overall,1,2017,94,92.4,94,92.4,2017-01,January
+Overall,12,2016,94,92.7,94,91.4,2016-12,December
+Overall,11,2016,94,92.9,94,91.9,2016-11,November
+Overall,10,2016,94,93,94,92.1,2016-10,October
+Overall,9,2016,94,93.1,94,94.4,2016-09,September
+Overall,8,2016,94,92.9,94,92,2016-08,August
+Overall,7,2016,94,93,94,89.3,2016-07,July
+Overall,6,2016,94,93.7,94,93.5,2016-06,June
+Overall,5,2016,94,93.7,94,94.7,2016-05,May
+Overall,4,2016,94,93.4,94,94.4,2016-04,April
+Overall,3,2016,94,93.1,94,95.2,2016-03,March
+Overall,2,2016,94,91.9,94,92.3,2016-02,February
+Overall,1,2016,94,91.6,94,91.6,2016-01,January
+Overall,12,2015,94,91.6,94,93.9,2015-12,December
+Overall,11,2015,94,91.4,94,92.5,2015-11,November
+Overall,10,2015,93.99,90.88,93.99,91.5,2015-10,October
+Overall,9,2015,94,91.2,94,90.4,2015-09,September
+Overall,8,2015,94,91.3,94,91.5,2015-08,August
+Overall,7,2015,94,91.2,94,91.2,2015-07,July
+Overall,6,2015,94,91.2,94,92.8,2015-06,June
+Overall,5,2015,94,90.9,94,92.9,2015-05,May
+Overall,4,2015,94,90.4,94,93.9,2015-04,April
+Overall,3,2015,93.99,89.24,93.99,90.4,2015-03,March
+Overall,2,2015,93.99,88.61,93.99,86.82,2015-02,February
+Overall,1,2015,94,90.3,94,90.3,2015-01,January
+Overall,12,2014,95.1,92,95.1,90.9,2014-12,December
+Overall,11,2014,95.1,92.1,95.1,92.7,2014-11,November
+Overall,10,2014,95.1,92.1,95.1,92.6,2014-10,October
+Overall,9,2014,95.1,92,95.1,93,2014-09,September
+Overall,8,2014,95.1,91.9,95.1,93.1,2014-08,August
+Overall,7,2014,95.1,91.7,95.1,93.4,2014-07,July
+Overall,6,2014,95.1,91.4,95.1,92.6,2014-06,June
+Overall,5,2014,95.1,91.2,95.1,91.3,2014-05,May
+Overall,4,2014,95.1,91.1,95.1,93.2,2014-04,April
+Overall,3,2014,95.1,90.4,95.1,93,2014-03,March
+Overall,2,2014,95.1,89,95.1,90.2,2014-02,February
+Overall,1,2014,95.1,87.9,95.1,87.9,2014-01,January
+Overall,12,2013,95.1,93.5,95.1,93.4,2013-12,December
+Overall,11,2013,95.1,93.5,95.1,92.1,2013-11,November
+Overall,10,2013,95.1,93.6,95.1,95,2013-10,October
+Overall,9,2013,95.1,93.5,95.1,94,2013-09,September
+Overall,8,2013,95.1,93.4,95.1,91.9,2013-08,August
+Overall,7,2013,95.1,93.6,95.1,93.3,2013-07,July
+Overall,6,2013,95.1,93.7,95.1,93.8,2013-06,June
+Overall,5,2013,95.1,93.6,95.1,93.9,2013-05,May
+Overall,4,2013,95.1,93.6,95.1,95.1,2013-04,April
+Overall,3,2013,95.1,93,95.1,92.5,2013-03,March
+Overall,2,2013,95.1,93.3,95.1,93.6,2013-02,February
+Overall,1,2013,95.1,93,95.1,93,2013-01,January
+Overall,12,2012,95.1,94.3,95.1,92.8,2012-12,December
+Overall,11,2012,95.1,94.39,95.1,87.76,2012-11,November
+Overall,10,2012,95.1,94.9,95.1,95.3,2012-10,October
+Overall,9,2012,95.1,94.9,95.1,95,2012-09,September
+Overall,8,2012,95.1,94.9,95.1,93.6,2012-08,August
+Overall,7,2012,95.1,95.1,95.1,93.3,2012-07,July
+Overall,6,2012,95.1,95.4,95.1,92.6,2012-06,June
+Overall,5,2012,95.1,95.9,95.1,95.4,2012-05,May
+Overall,4,2012,95.1,96.1,95.1,95.7,2012-04,April
+Overall,3,2012,95.1,96.2,95.1,96.1,2012-03,March
+Overall,2,2012,95.1,96.2,95.1,96.4,2012-02,February
+Overall,1,2012,95.1,96.1,95.1,96.1,2012-01,January
+Overall,12,2011,95.1,93.7,95.1,96,2011-12,December
+Overall,11,2011,95.1,93.5,95.1,94.9,2011-11,November
+Overall,10,2011,95.1,93.4,95.1,94.7,2011-10,October
+Overall,9,2011,95.1,93.2,95.1,91.1,2011-09,September
+Overall,8,2011,95.1,93.5,95.1,90.5,2011-08,August
+Overall,7,2011,95.1,93.9,95.1,93.6,2011-07,July
+Overall,6,2011,95.1,93.9,95.1,93.7,2011-06,June
+Overall,5,2011,95.1,94,95.1,94,2011-05,May
+Overall,4,2011,95.1,94,95.1,95.9,2011-04,April
+Overall,3,2011,95.1,93.3,95.1,95.6,2011-03,March
+Overall,2,2011,95.1,92,95.1,95.1,2011-02,February
+Overall,1,2011,95.1,89.3,95.1,89.3,2011-01,January
+Overall,12,2010,95.1,92.8,95.1,92.2,2010-12,December
+Overall,11,2010,95.1,92.6,95.1,94.3,2010-11,November
+Overall,10,2010,95.1,92.5,95.1,93.6,2010-10,October
+Overall,9,2010,95.1,92.4,95.1,92.4,2010-09,September
+Overall,8,2010,95.1,92.4,95.1,87.3,2010-08,August
+Overall,7,2010,95.1,93.1,95.1,91.9,2010-07,July
+Overall,6,2010,95.1,93.4,95.1,92.2,2010-06,June
+Overall,5,2010,95.1,93.6,95.1,93.5,2010-05,May
+Overall,4,2010,95.1,93.6,95.1,91.5,2010-04,April
+Overall,3,2010,95.1,94.3,95.1,92.4,2010-03,March
+Overall,2,2010,95.1,95.4,95.1,93.8,2010-02,February
+Overall,1,2010,95.1,96.9,95.1,96.9,2010-01,January
+Overall,12,2009,0,95.2,0,91.9,2009-12,December
+Overall,11,2009,0,95.5,0,95.3,2009-11,November
+Overall,10,2009,0,95.5,0,95.2,2009-10,October
+Overall,9,2009,0,95.6,0,95.6,2009-09,September
+Overall,8,2009,0,95.6,0,95.8,2009-08,August
+Overall,7,2009,0,95.6,0,94.6,2009-07,July
+Overall,6,2009,0,95.7,0,95.4,2009-06,June
+Overall,5,2009,0,95.8,0,96.6,2009-05,May
+Overall,4,2009,0,95.6,0,96.7,2009-04,April
+Overall,3,2009,0,95.2,0,94,2009-03,March
+Overall,2,2009,0,95.9,0,95.6,2009-02,February
+Overall,1,2009,0,96.1,0,96.1,2009-01,January
+Overall,12,2008,0,95.1,0,95.5,2008-12,December
+Overall,11,2008,0,95.1,0,92.6,2008-11,November
+Overall,10,2008,0,95.3,0,95,2008-10,October
+Overall,9,2008,0,95.4,0,95.2,2008-09,September
+Overall,8,2008,0,95.4,0,95.5,2008-08,August
+Overall,7,2008,0,95.4,0,94.2,2008-07,July
+Overall,6,2008,0,95.6,0,95.2,2008-06,June
+Overall,5,2008,0,95.6,0,96,2008-05,May
+Overall,4,2008,0,95.5,0,96,2008-04,April
+Overall,3,2008,0,95.4,0,94.4,2008-03,March
+Overall,2,2008,0,95.9,0,95.2,2008-02,February
+Overall,1,2008,0,96.6,0,96.6,2008-01,January
+Babylon,11,2018,93.9,89.8,93.9,84.4,2018-11,November
+Babylon,10,2018,93.9,90.3,93.9,93.6,2018-10,October
+Babylon,9,2018,93.9,89.9,93.9,91.8,2018-09,September
+Babylon,8,2018,93.9,89.7,93.9,87.7,2018-08,August
+Babylon,7,2018,93.9,90,93.9,89.3,2018-07,July
+Babylon,6,2018,93.9,90.3,93.9,93.1,2018-06,June
+Babylon,5,2018,93.9,89.8,93.9,92.6,2018-05,May
+Babylon,4,2018,93.9,89,93.9,94.7,2018-04,April
+Babylon,3,2018,93.9,87.2,93.9,87.9,2018-03,March
+Babylon,2,2018,93.9,86.8,93.9,93.2,2018-02,February
+Babylon,1,2018,93.9,81,93.9,81,2018-01,January
+Babylon,12,2017,93.9,90.4,93.9,87.9,2017-12,December
+Babylon,11,2017,93.9,90.6,93.9,92,2017-11,November
+Babylon,10,2017,93.9,90.4,93.9,93.1,2017-10,October
+Babylon,9,2017,93.9,90.1,93.9,93.1,2017-09,September
+Babylon,8,2017,93.9,89.8,93.9,93.5,2017-08,August
+Babylon,7,2017,93.9,89.2,93.9,92.7,2017-07,July
+Babylon,6,2017,93.9,88.7,93.9,88.2,2017-06,June
+Babylon,5,2017,93.9,88.8,93.9,87.5,2017-05,May
+Babylon,4,2017,93.9,89.1,93.9,85.4,2017-04,April
+Babylon,3,2017,93.9,90.3,93.9,90.8,2017-03,March
+Babylon,2,2017,93.9,90,93.9,87.6,2017-02,February
+Babylon,1,2017,93.9,92.2,93.9,92.2,2017-01,January
+Babylon,12,2016,93.9,91.9,93.9,90.8,2016-12,December
+Babylon,11,2016,93.9,92,93.9,91.9,2016-11,November
+Babylon,10,2016,93.9,92,93.9,91.9,2016-10,October
+Babylon,9,2016,93.9,92,93.9,93.6,2016-09,September
+Babylon,8,2016,93.9,91.8,93.9,92,2016-08,August
+Babylon,7,2016,93.9,91.7,93.9,87.1,2016-07,July
+Babylon,6,2016,93.9,92.5,93.9,92.6,2016-06,June
+Babylon,5,2016,93.9,92.5,93.9,92.4,2016-05,May
+Babylon,4,2016,93.9,92.6,93.9,91.9,2016-04,April
+Babylon,3,2016,93.9,92.8,93.9,94.7,2016-03,March
+Babylon,2,2016,93.9,91.7,93.9,92.3,2016-02,February
+Babylon,1,2016,93.9,91.2,93.9,91.2,2016-01,January
+Babylon,12,2015,93.9,91.7,93.9,93.1,2015-12,December
+Babylon,11,2015,93.9,91.6,93.9,93.1,2015-11,November
+Babylon,10,2015,93.9,91.14,93.9,91.64,2015-10,October
+Babylon,9,2015,93.9,91.3,93.9,91.3,2015-09,September
+Babylon,8,2015,93.9,91.3,93.9,92,2015-08,August
+Babylon,7,2015,93.9,91.2,93.9,92,2015-07,July
+Babylon,6,2015,93.9,91,93.9,92.8,2015-06,June
+Babylon,5,2015,93.9,90.7,93.9,92.6,2015-05,May
+Babylon,4,2015,93.9,90.2,93.9,93.6,2015-04,April
+Babylon,3,2015,93.9,89.01,93.9,90.5,2015-03,March
+Babylon,2,2015,93.9,88.21,93.9,86.39,2015-02,February
+Babylon,1,2015,93.9,89.9,93.9,89.9,2015-01,January
+Babylon,12,2014,95.1,91.4,95.1,90.1,2014-12,December
+Babylon,11,2014,95.1,91.5,95.1,91.4,2014-11,November
+Babylon,10,2014,95.1,91.5,95.1,92.4,2014-10,October
+Babylon,9,2014,95.1,91.4,95.1,92.5,2014-09,September
+Babylon,8,2014,95.1,91.3,95.1,92.7,2014-08,August
+Babylon,7,2014,95.1,91,95.1,92.8,2014-07,July
+Babylon,6,2014,95.1,90.7,95.1,92.3,2014-06,June
+Babylon,5,2014,95.1,90.4,95.1,90.6,2014-05,May
+Babylon,4,2014,95.1,90.4,95.1,93.2,2014-04,April
+Babylon,3,2014,95.1,89.4,95.1,92.4,2014-03,March
+Babylon,2,2014,95.1,87.8,95.1,91.2,2014-02,February
+Babylon,1,2014,95.1,84.5,95.1,84.5,2014-01,January
+Babylon,12,2013,95.1,92.7,95.1,92.4,2013-12,December
+Babylon,11,2013,95.1,92.8,95.1,90.4,2013-11,November
+Babylon,10,2013,95.1,93,95.1,93.8,2013-10,October
+Babylon,9,2013,95.1,92.9,95.1,93.3,2013-09,September
+Babylon,8,2013,95.1,92.8,95.1,90.8,2013-08,August
+Babylon,7,2013,95.1,93.1,95.1,92.4,2013-07,July
+Babylon,6,2013,95.1,93.3,95.1,93.7,2013-06,June
+Babylon,5,2013,95.1,93.2,95.1,93.4,2013-05,May
+Babylon,4,2013,95.1,93.1,95.1,96,2013-04,April
+Babylon,3,2013,95.1,92.1,95.1,90.3,2013-03,March
+Babylon,2,2013,95.1,93,95.1,93.2,2013-02,February
+Babylon,1,2013,95.1,92.9,95.1,92.9,2013-01,January
+Babylon,12,2012,95.1,93.9,95.1,92.8,2012-12,December
+Babylon,11,2012,95.1,94,95.1,87.3,2012-11,November
+Babylon,10,2012,95.1,94.5,95.1,94.3,2012-10,October
+Babylon,9,2012,95.1,94.5,95.1,94.7,2012-09,September
+Babylon,8,2012,95.1,94.5,95.1,93.2,2012-08,August
+Babylon,7,2012,95.1,94.7,95.1,93.2,2012-07,July
+Babylon,6,2012,95.1,94.9,95.1,92.6,2012-06,June
+Babylon,5,2012,95.1,95.4,95.1,94.7,2012-05,May
+Babylon,4,2012,95.1,95.6,95.1,95.3,2012-04,April
+Babylon,3,2012,95.1,95.7,95.1,96,2012-03,March
+Babylon,2,2012,95.1,95.5,95.1,95.9,2012-02,February
+Babylon,1,2012,95.1,95.1,95.1,95.1,2012-01,January
+Babylon,12,2011,95.1,93.4,95.1,95.6,2011-12,December
+Babylon,11,2011,95.1,93.2,95.1,95.5,2011-11,November
+Babylon,10,2011,95.1,93,95.1,94.9,2011-10,October
+Babylon,9,2011,95.1,92.8,95.1,90.8,2011-09,September
+Babylon,8,2011,95.1,93,95.1,88.4,2011-08,August
+Babylon,7,2011,95.1,93.7,95.1,92.6,2011-07,July
+Babylon,6,2011,95.1,93.8,95.1,94.5,2011-06,June
+Babylon,5,2011,95.1,93.7,95.1,94,2011-05,May
+Babylon,4,2011,95.1,93.7,95.1,96.4,2011-04,April
+Babylon,3,2011,95.1,92.7,95.1,95.1,2011-03,March
+Babylon,2,2011,95.1,91.4,95.1,95,2011-02,February
+Babylon,1,2011,95.1,88.2,95.1,88.2,2011-01,January
+Babylon,12,2010,95.1,91.7,95.1,91.4,2010-12,December
+Babylon,11,2010,95.1,91.6,95.1,93.4,2010-11,November
+Babylon,10,2010,95.1,91.4,95.1,92.3,2010-10,October
+Babylon,9,2010,95.1,91.3,95.1,92,2010-09,September
+Babylon,8,2010,95.1,91.3,95.1,84.1,2010-08,August
+Babylon,7,2010,95.1,92.3,95.1,90.7,2010-07,July
+Babylon,6,2010,95.1,92.6,95.1,91.6,2010-06,June
+Babylon,5,2010,95.1,92.8,95.1,92.3,2010-05,May
+Babylon,4,2010,95.1,92.9,95.1,90.6,2010-04,April
+Babylon,3,2010,95.1,93.7,95.1,91.7,2010-03,March
+Babylon,2,2010,95.1,94.8,95.1,93.4,2010-02,February
+Babylon,1,2010,95.1,96.1,95.1,96.1,2010-01,January
+Babylon,12,2009,0,94.8,0,91.4,2009-12,December
+Babylon,11,2009,0,95.1,0,94.5,2009-11,November
+Babylon,10,2009,0,95.2,0,95,2009-10,October
+Babylon,9,2009,0,95.2,0,95.6,2009-09,September
+Babylon,8,2009,0,95.2,0,95.7,2009-08,August
+Babylon,7,2009,0,95.1,0,94.4,2009-07,July
+Babylon,6,2009,0,95.2,0,95,2009-06,June
+Babylon,5,2009,0,95.3,0,96.7,2009-05,May
+Babylon,4,2009,0,94.9,0,96,2009-04,April
+Babylon,3,2009,0,94.6,0,92.9,2009-03,March
+Babylon,2,2009,0,95.4,0,95.1,2009-02,February
+Babylon,1,2009,0,95.8,0,95.8,2009-01,January
+Babylon,12,2008,0,95.3,0,95.4,2008-12,December
+Babylon,11,2008,0,95.2,0,91.8,2008-11,November
+Babylon,10,2008,0,95.6,0,95,2008-10,October
+Babylon,9,2008,0,95.6,0,95,2008-09,September
+Babylon,8,2008,0,95.7,0,95.3,2008-08,August
+Babylon,7,2008,0,95.8,0,94.2,2008-07,July
+Babylon,6,2008,0,96.1,0,95.9,2008-06,June
+Babylon,5,2008,0,96.1,0,95.8,2008-05,May
+Babylon,4,2008,0,96.2,0,97.2,2008-04,April
+Babylon,3,2008,0,95.8,0,95,2008-03,March
+Babylon,2,2008,0,96.2,0,95.4,2008-02,February
+Babylon,1,2008,0,97,0,97,2008-01,January
+Far Rockaway,11,2018,96.6,94.6,96.6,91.2,2018-11,November
+Far Rockaway,10,2018,96.6,94.9,96.6,95.8,2018-10,October
+Far Rockaway,9,2018,96.6,94.8,96.6,96.6,2018-09,September
+Far Rockaway,8,2018,96.6,94.6,96.6,95.2,2018-08,August
+Far Rockaway,7,2018,96.6,94.5,96.6,95.2,2018-07,July
+Far Rockaway,6,2018,96.6,94.4,96.6,96.9,2018-06,June
+Far Rockaway,5,2018,96.6,93.9,96.6,94.3,2018-05,May
+Far Rockaway,4,2018,96.6,93.8,96.6,97,2018-04,April
+Far Rockaway,3,2018,96.6,92.8,96.6,93.8,2018-03,March
+Far Rockaway,2,2018,96.6,92.2,96.6,96.3,2018-02,February
+Far Rockaway,1,2018,96.6,88.5,96.6,88.5,2018-01,January
+Far Rockaway,12,2017,96.6,95.6,96.6,96.3,2017-12,December
+Far Rockaway,11,2017,96.6,95.6,96.6,96,2017-11,November
+Far Rockaway,10,2017,96.6,95.5,96.6,96.8,2017-10,October
+Far Rockaway,9,2017,96.6,95.4,96.6,97,2017-09,September
+Far Rockaway,8,2017,96.6,95.2,96.6,97.3,2017-08,August
+Far Rockaway,7,2017,96.6,94.9,96.6,96,2017-07,July
+Far Rockaway,6,2017,96.6,94.7,96.6,95.2,2017-06,June
+Far Rockaway,5,2017,96.6,94.6,96.6,94.9,2017-05,May
+Far Rockaway,4,2017,96.6,94.5,96.6,94.5,2017-04,April
+Far Rockaway,3,2017,96.6,94.5,96.6,95.8,2017-03,March
+Far Rockaway,2,2017,96.6,93.8,96.6,92.8,2017-02,February
+Far Rockaway,1,2017,96.6,94.7,96.6,94.7,2017-01,January
+Far Rockaway,12,2016,96.6,96.5,96.6,95.5,2016-12,December
+Far Rockaway,11,2016,96.6,96.6,96.6,96.3,2016-11,November
+Far Rockaway,10,2016,96.6,96.6,96.6,96,2016-10,October
+Far Rockaway,9,2016,96.6,96.7,96.6,97.8,2016-09,September
+Far Rockaway,8,2016,96.6,96.5,96.6,95.5,2016-08,August
+Far Rockaway,7,2016,96.6,96.7,96.6,94.2,2016-07,July
+Far Rockaway,6,2016,96.6,97.1,96.6,97.7,2016-06,June
+Far Rockaway,5,2016,96.6,97,96.6,97.4,2016-05,May
+Far Rockaway,4,2016,96.6,96.8,96.6,97.8,2016-04,April
+Far Rockaway,3,2016,96.6,96.5,96.6,97.6,2016-03,March
+Far Rockaway,2,2016,96.6,95.9,96.6,96.1,2016-02,February
+Far Rockaway,1,2016,96.6,95.8,96.6,95.8,2016-01,January
+Far Rockaway,12,2015,96.6,95.5,96.6,97.5,2015-12,December
+Far Rockaway,11,2015,96.6,95.4,96.6,95.4,2015-11,November
+Far Rockaway,10,2015,96.6,94.79,96.6,94.01,2015-10,October
+Far Rockaway,9,2015,96.6,95.4,96.6,95.4,2015-09,September
+Far Rockaway,8,2015,96.6,95.4,96.6,96.5,2015-08,August
+Far Rockaway,7,2015,96.6,95.2,96.6,95.6,2015-07,July
+Far Rockaway,6,2015,96.6,95.1,96.6,94.9,2015-06,June
+Far Rockaway,5,2015,96.6,95.2,96.6,95.7,2015-05,May
+Far Rockaway,4,2015,96.6,95.1,96.6,98,2015-04,April
+Far Rockaway,3,2015,96.6,94.06,96.6,95.08,2015-03,March
+Far Rockaway,2,2015,96.6,93.5,96.6,92.83,2015-02,February
+Far Rockaway,1,2015,96.6,94.1,96.6,94.1,2015-01,January
+Far Rockaway,12,2014,95.1,95.6,95.1,94.4,2014-12,December
+Far Rockaway,11,2014,95.1,95.8,95.1,96.3,2014-11,November
+Far Rockaway,10,2014,95.1,95.7,95.1,96.1,2014-10,October
+Far Rockaway,9,2014,95.1,95.7,95.1,95.1,2014-09,September
+Far Rockaway,8,2014,95.1,95.7,95.1,95.6,2014-08,August
+Far Rockaway,7,2014,95.1,95.8,95.1,97.3,2014-07,July
+Far Rockaway,6,2014,95.1,95.5,95.1,96,2014-06,June
+Far Rockaway,5,2014,95.1,95.4,95.1,95.7,2014-05,May
+Far Rockaway,4,2014,95.1,95.3,95.1,96.1,2014-04,April
+Far Rockaway,3,2014,95.1,95,95.1,96.7,2014-03,March
+Far Rockaway,2,2014,95.1,94.1,95.1,94.8,2014-02,February
+Far Rockaway,1,2014,95.1,93.6,95.1,93.6,2014-01,January
+Far Rockaway,12,2013,95.1,96.7,95.1,96.2,2013-12,December
+Far Rockaway,11,2013,95.1,96.7,95.1,96.3,2013-11,November
+Far Rockaway,10,2013,95.1,96.8,95.1,98.3,2013-10,October
+Far Rockaway,9,2013,95.1,96.6,95.1,97.4,2013-09,September
+Far Rockaway,8,2013,95.1,96.5,95.1,96,2013-08,August
+Far Rockaway,7,2013,95.1,96.5,95.1,96.4,2013-07,July
+Far Rockaway,6,2013,95.1,96.6,95.1,97.5,2013-06,June
+Far Rockaway,5,2013,95.1,96.4,95.1,95.9,2013-05,May
+Far Rockaway,4,2013,95.1,96.5,95.1,97.3,2013-04,April
+Far Rockaway,3,2013,95.1,96.2,95.1,95.5,2013-03,March
+Far Rockaway,2,2013,95.1,96.6,95.1,96.8,2013-02,February
+Far Rockaway,1,2013,95.1,96.4,95.1,96.4,2013-01,January
+Far Rockaway,12,2012,95.1,97,95.1,95.2,2012-12,December
+Far Rockaway,11,2012,95.1,97.2,95.1,92.3,2012-11,November
+Far Rockaway,10,2012,95.1,97.6,95.1,98.2,2012-10,October
+Far Rockaway,9,2012,95.1,97.6,95.1,98.9,2012-09,September
+Far Rockaway,8,2012,95.1,97.4,95.1,96.1,2012-08,August
+Far Rockaway,7,2012,95.1,97.6,95.1,97,2012-07,July
+Far Rockaway,6,2012,95.1,97.7,95.1,96,2012-06,June
+Far Rockaway,5,2012,95.1,98,95.1,98.1,2012-05,May
+Far Rockaway,4,2012,95.1,98,95.1,97.9,2012-04,April
+Far Rockaway,3,2012,95.1,98.1,95.1,97.2,2012-03,March
+Far Rockaway,2,2012,95.1,98.5,95.1,98.5,2012-02,February
+Far Rockaway,1,2012,95.1,98.5,95.1,98.5,2012-01,January
+Far Rockaway,12,2011,95.1,96.6,95.1,98.1,2011-12,December
+Far Rockaway,11,2011,95.1,96.5,95.1,98,2011-11,November
+Far Rockaway,10,2011,95.1,96.3,95.1,97.6,2011-10,October
+Far Rockaway,9,2011,95.1,96.2,95.1,94.4,2011-09,September
+Far Rockaway,8,2011,95.1,96.4,95.1,93.1,2011-08,August
+Far Rockaway,7,2011,95.1,96.9,95.1,97.3,2011-07,July
+Far Rockaway,6,2011,95.1,96.8,95.1,95.8,2011-06,June
+Far Rockaway,5,2011,95.1,97.1,95.1,97.2,2011-05,May
+Far Rockaway,4,2011,95.1,97,95.1,98,2011-04,April
+Far Rockaway,3,2011,95.1,96.7,95.1,98,2011-03,March
+Far Rockaway,2,2011,95.1,95.9,95.1,97.4,2011-02,February
+Far Rockaway,1,2011,95.1,94.6,95.1,94.6,2011-01,January
+Far Rockaway,12,2010,95.1,96.3,95.1,95.6,2010-12,December
+Far Rockaway,11,2010,95.1,96.2,95.1,98.3,2010-11,November
+Far Rockaway,10,2010,95.1,96,95.1,95,2010-10,October
+Far Rockaway,9,2010,95.1,96.1,95.1,96.4,2010-09,September
+Far Rockaway,8,2010,95.1,96,95.1,90.7,2010-08,August
+Far Rockaway,7,2010,95.1,96.8,95.1,96.3,2010-07,July
+Far Rockaway,6,2010,95.1,96.9,95.1,97.4,2010-06,June
+Far Rockaway,5,2010,95.1,96.8,95.1,97.9,2010-05,May
+Far Rockaway,4,2010,95.1,96.5,95.1,96.5,2010-04,April
+Far Rockaway,3,2010,95.1,96.6,95.1,93.3,2010-03,March
+Far Rockaway,2,2010,95.1,98.4,95.1,97.6,2010-02,February
+Far Rockaway,1,2010,95.1,99,95.1,99,2010-01,January
+Far Rockaway,12,2009,0,98,0,96.3,2009-12,December
+Far Rockaway,11,2009,0,98.1,0,98.6,2009-11,November
+Far Rockaway,10,2009,0,98.1,0,98.1,2009-10,October
+Far Rockaway,9,2009,0,98.1,0,98.3,2009-09,September
+Far Rockaway,8,2009,0,98.1,0,98,2009-08,August
+Far Rockaway,7,2009,0,98.1,0,98,2009-07,July
+Far Rockaway,6,2009,0,98.1,0,98.5,2009-06,June
+Far Rockaway,5,2009,0,98,0,98.7,2009-05,May
+Far Rockaway,4,2009,0,97.8,0,98.5,2009-04,April
+Far Rockaway,3,2009,0,97.6,0,96.1,2009-03,March
+Far Rockaway,2,2009,0,98.4,0,97.5,2009-02,February
+Far Rockaway,1,2009,0,99.2,0,99.2,2009-01,January
+Far Rockaway,12,2008,0,97.8,0,98.5,2008-12,December
+Far Rockaway,11,2008,0,97.7,0,95.2,2008-11,November
+Far Rockaway,10,2008,0,97.9,0,98.2,2008-10,October
+Far Rockaway,9,2008,0,97.9,0,97.5,2008-09,September
+Far Rockaway,8,2008,0,97.9,0,98.8,2008-08,August
+Far Rockaway,7,2008,0,97.8,0,98.4,2008-07,July
+Far Rockaway,6,2008,0,97.7,0,97.7,2008-06,June
+Far Rockaway,5,2008,0,97.7,0,97.8,2008-05,May
+Far Rockaway,4,2008,0,97.7,0,97.8,2008-04,April
+Far Rockaway,3,2008,0,97.6,0,97,2008-03,March
+Far Rockaway,2,2008,0,98,0,97.4,2008-02,February
+Far Rockaway,1,2008,0,98.5,0,98.5,2008-01,January
+Hicksville/Huntington,11,2018,92.5,88.8,92.5,85.3,2018-11,November
+Hicksville/Huntington,10,2018,92.5,89.1,92.5,92.3,2018-10,October
+Hicksville/Huntington,9,2018,92.5,88.8,92.5,91.7,2018-09,September
+Hicksville/Huntington,8,2018,92.5,88.4,92.5,86.2,2018-08,August
+Hicksville/Huntington,7,2018,92.5,88.7,92.5,87.4,2018-07,July
+Hicksville/Huntington,6,2018,92.5,88.9,92.5,89.3,2018-06,June
+Hicksville/Huntington,5,2018,92.5,88.9,92.5,90.6,2018-05,May
+Hicksville/Huntington,4,2018,92.5,88.4,92.5,92.5,2018-04,April
+Hicksville/Huntington,3,2018,92.5,87.2,92.5,86.4,2018-03,March
+Hicksville/Huntington,2,2018,92.5,87.7,92.5,91.8,2018-02,February
+Hicksville/Huntington,1,2018,92.5,84.1,92.5,84.1,2018-01,January
+Hicksville/Huntington,12,2017,92.5,90.2,92.5,89.5,2017-12,December
+Hicksville/Huntington,11,2017,92.5,90.3,92.5,87.6,2017-11,November
+Hicksville/Huntington,10,2017,92.5,90.6,92.5,93.1,2017-10,October
+Hicksville/Huntington,9,2017,92.5,90.3,92.5,93.3,2017-09,September
+Hicksville/Huntington,8,2017,92.5,89.9,92.5,94.7,2017-08,August
+Hicksville/Huntington,7,2017,92.5,89.2,92.5,93.6,2017-07,July
+Hicksville/Huntington,6,2017,92.5,88.5,92.5,86.6,2017-06,June
+Hicksville/Huntington,5,2017,92.5,88.8,92.5,88,2017-05,May
+Hicksville/Huntington,4,2017,92.5,89.1,92.5,88.9,2017-04,April
+Hicksville/Huntington,3,2017,92.5,89.1,92.5,87.8,2017-03,March
+Hicksville/Huntington,2,2017,92.5,89.8,92.5,87.3,2017-02,February
+Hicksville/Huntington,1,2017,92.5,92.1,92.5,92.1,2017-01,January
+Hicksville/Huntington,12,2016,92.5,91.1,92.5,89.6,2016-12,December
+Hicksville/Huntington,11,2016,92.5,91.3,92.5,88.8,2016-11,November
+Hicksville/Huntington,10,2016,92.5,91.5,92.5,88.3,2016-10,October
+Hicksville/Huntington,9,2016,92.5,91.9,92.5,94.2,2016-09,September
+Hicksville/Huntington,8,2016,92.5,91.6,92.5,90.3,2016-08,August
+Hicksville/Huntington,7,2016,92.5,91.7,92.5,88.7,2016-07,July
+Hicksville/Huntington,6,2016,92.5,92.3,92.5,92.5,2016-06,June
+Hicksville/Huntington,5,2016,92.5,92.2,92.5,95.2,2016-05,May
+Hicksville/Huntington,4,2016,92.5,91.5,92.5,93.9,2016-04,April
+Hicksville/Huntington,3,2016,92.5,90.7,92.5,93.9,2016-03,March
+Hicksville/Huntington,2,2016,92.5,89,92.5,89.5,2016-02,February
+Hicksville/Huntington,1,2016,92.5,88.4,92.5,88.4,2016-01,January
+Hicksville/Huntington,12,2015,92.5,88.6,92.5,91.4,2015-12,December
+Hicksville/Huntington,11,2015,92.5,88.4,92.5,88.3,2015-11,November
+Hicksville/Huntington,10,2015,92.5,87.49,92.5,87.52,2015-10,October
+Hicksville/Huntington,9,2015,92.5,88.4,92.5,86,2015-09,September
+Hicksville/Huntington,8,2015,92.5,88.7,92.5,88.9,2015-08,August
+Hicksville/Huntington,7,2015,92.5,88.6,92.5,88.8,2015-07,July
+Hicksville/Huntington,6,2015,92.5,88.6,92.5,90.7,2015-06,June
+Hicksville/Huntington,5,2015,92.5,88.2,92.5,91.1,2015-05,May
+Hicksville/Huntington,4,2015,92.5,87.4,92.5,91,2015-04,April
+Hicksville/Huntington,3,2015,92.5,86.23,92.5,87.12,2015-03,March
+Hicksville/Huntington,2,2015,92.5,85.77,92.5,83.35,2015-02,February
+Hicksville/Huntington,1,2015,92.5,88,92.5,88,2015-01,January
+Hicksville/Huntington,12,2014,95.1,89.6,95.1,89.4,2014-12,December
+Hicksville/Huntington,11,2014,95.1,89.7,95.1,91.5,2014-11,November
+Hicksville/Huntington,10,2014,95.1,89.5,95.1,89.4,2014-10,October
+Hicksville/Huntington,9,2014,95.1,89.5,95.1,91.7,2014-09,September
+Hicksville/Huntington,8,2014,95.1,89.2,95.1,91.8,2014-08,August
+Hicksville/Huntington,7,2014,95.1,88.9,95.1,92.7,2014-07,July
+Hicksville/Huntington,6,2014,95.1,88.2,95.1,88.9,2014-06,June
+Hicksville/Huntington,5,2014,95.1,88.1,95.1,88.6,2014-05,May
+Hicksville/Huntington,4,2014,95.1,87.9,95.1,90.7,2014-04,April
+Hicksville/Huntington,3,2014,95.1,87,95.1,89.6,2014-03,March
+Hicksville/Huntington,2,2014,95.1,85.6,95.1,84.5,2014-02,February
+Hicksville/Huntington,1,2014,95.1,86.7,95.1,86.7,2014-01,January
+Hicksville/Huntington,12,2013,95.1,92.5,95.1,92.6,2013-12,December
+Hicksville/Huntington,11,2013,95.1,92.5,95.1,91.5,2013-11,November
+Hicksville/Huntington,10,2013,95.1,92.6,95.1,93.7,2013-10,October
+Hicksville/Huntington,9,2013,95.1,92.4,95.1,92.7,2013-09,September
+Hicksville/Huntington,8,2013,95.1,92.4,95.1,92.2,2013-08,August
+Hicksville/Huntington,7,2013,95.1,92.4,95.1,92.6,2013-07,July
+Hicksville/Huntington,6,2013,95.1,92.4,95.1,92,2013-06,June
+Hicksville/Huntington,5,2013,95.1,92.5,95.1,93.9,2013-05,May
+Hicksville/Huntington,4,2013,95.1,92.1,95.1,92.7,2013-04,April
+Hicksville/Huntington,3,2013,95.1,91.9,95.1,91.5,2013-03,March
+Hicksville/Huntington,2,2013,95.1,92.1,95.1,92.9,2013-02,February
+Hicksville/Huntington,1,2013,95.1,91.4,95.1,91.4,2013-01,January
+Hicksville/Huntington,12,2012,95.1,93.5,95.1,90.6,2012-12,December
+Hicksville/Huntington,11,2012,95.1,93.8,95.1,85.7,2012-11,November
+Hicksville/Huntington,10,2012,95.1,94.6,95.1,94.2,2012-10,October
+Hicksville/Huntington,9,2012,95.1,94.6,95.1,95,2012-09,September
+Hicksville/Huntington,8,2012,95.1,94.6,95.1,93.6,2012-08,August
+Hicksville/Huntington,7,2012,95.1,94.7,95.1,93.1,2012-07,July
+Hicksville/Huntington,6,2012,95.1,95,95.1,92.4,2012-06,June
+Hicksville/Huntington,5,2012,95.1,95.5,95.1,95.7,2012-05,May
+Hicksville/Huntington,4,2012,95.1,95.5,95.1,93.9,2012-04,April
+Hicksville/Huntington,3,2012,95.1,96,95.1,95.4,2012-03,March
+Hicksville/Huntington,2,2012,95.1,96.3,95.1,96.3,2012-02,February
+Hicksville/Huntington,1,2012,95.1,96.2,95.1,96.2,2012-01,January
+Hicksville/Huntington,12,2011,95.1,92.5,95.1,94.6,2011-12,December
+Hicksville/Huntington,11,2011,95.1,92.3,95.1,92.1,2011-11,November
+Hicksville/Huntington,10,2011,95.1,92.3,95.1,93.3,2011-10,October
+Hicksville/Huntington,9,2011,95.1,92.2,95.1,88.4,2011-09,September
+Hicksville/Huntington,8,2011,95.1,92.6,95.1,89.7,2011-08,August
+Hicksville/Huntington,7,2011,95.1,93,95.1,94.6,2011-07,July
+Hicksville/Huntington,6,2011,95.1,92.7,95.1,92.8,2011-06,June
+Hicksville/Huntington,5,2011,95.1,92.7,95.1,92.7,2011-05,May
+Hicksville/Huntington,4,2011,95.1,92.7,95.1,95.2,2011-04,April
+Hicksville/Huntington,3,2011,95.1,91.9,95.1,94.8,2011-03,March
+Hicksville/Huntington,2,2011,95.1,90.4,95.1,94,2011-02,February
+Hicksville/Huntington,1,2011,95.1,87.2,95.1,87.2,2011-01,January
+Hicksville/Huntington,12,2010,95.1,91.5,95.1,91.5,2010-12,December
+Hicksville/Huntington,11,2010,95.1,91.4,95.1,94.3,2010-11,November
+Hicksville/Huntington,10,2010,95.1,91.1,95.1,92.7,2010-10,October
+Hicksville/Huntington,9,2010,95.1,90.9,95.1,91,2010-09,September
+Hicksville/Huntington,8,2010,95.1,90.9,95.1,85.1,2010-08,August
+Hicksville/Huntington,7,2010,95.1,91.8,95.1,91,2010-07,July
+Hicksville/Huntington,6,2010,95.1,91.9,95.1,90.2,2010-06,June
+Hicksville/Huntington,5,2010,95.1,92.2,95.1,93.3,2010-05,May
+Hicksville/Huntington,4,2010,95.1,92,95.1,89.8,2010-04,April
+Hicksville/Huntington,3,2010,95.1,92.6,95.1,88.7,2010-03,March
+Hicksville/Huntington,2,2010,95.1,94.7,95.1,92.8,2010-02,February
+Hicksville/Huntington,1,2010,95.1,96.4,95.1,96.4,2010-01,January
+Hicksville/Huntington,12,2009,0,94.4,0,90.2,2009-12,December
+Hicksville/Huntington,11,2009,0,94.8,0,95.1,2009-11,November
+Hicksville/Huntington,10,2009,0,94.8,0,93.8,2009-10,October
+Hicksville/Huntington,9,2009,0,94.9,0,95.1,2009-09,September
+Hicksville/Huntington,8,2009,0,94.9,0,94.9,2009-08,August
+Hicksville/Huntington,7,2009,0,94.8,0,93.4,2009-07,July
+Hicksville/Huntington,6,2009,0,95.1,0,93.7,2009-06,June
+Hicksville/Huntington,5,2009,0,95.4,0,95.7,2009-05,May
+Hicksville/Huntington,4,2009,0,95.3,0,96.6,2009-04,April
+Hicksville/Huntington,3,2009,0,94.9,0,93.8,2009-03,March
+Hicksville/Huntington,2,2009,0,95.4,0,94.5,2009-02,February
+Hicksville/Huntington,1,2009,0,96.3,0,96.3,2009-01,January
+Hicksville/Huntington,12,2008,0,94.5,0,93.6,2008-12,December
+Hicksville/Huntington,11,2008,0,94.6,0,92.1,2008-11,November
+Hicksville/Huntington,10,2008,0,94.8,0,93.1,2008-10,October
+Hicksville/Huntington,9,2008,0,95,0,94.7,2008-09,September
+Hicksville/Huntington,8,2008,0,95.1,0,96.6,2008-08,August
+Hicksville/Huntington,7,2008,0,94.9,0,95.5,2008-07,July
+Hicksville/Huntington,6,2008,0,94.8,0,95.4,2008-06,June
+Hicksville/Huntington,5,2008,0,94.6,0,95.6,2008-05,May
+Hicksville/Huntington,4,2008,0,94.4,0,95.2,2008-04,April
+Hicksville/Huntington,3,2008,0,94.1,0,93.3,2008-03,March
+Hicksville/Huntington,2,2008,0,94.6,0,94.3,2008-02,February
+Hicksville/Huntington,1,2008,0,94.8,0,94.8,2008-01,January
+Hempstead,11,2018,96.5,92.4,96.5,90.2,2018-11,November
+Hempstead,10,2018,96.5,92.6,96.5,95.8,2018-10,October
+Hempstead,9,2018,96.5,92.2,96.5,96.3,2018-09,September
+Hempstead,8,2018,96.5,91.7,96.5,92.3,2018-08,August
+Hempstead,7,2018,96.5,91.6,96.5,93.4,2018-07,July
+Hempstead,6,2018,96.5,91.3,96.5,93.9,2018-06,June
+Hempstead,5,2018,96.5,90.8,96.5,94.2,2018-05,May
+Hempstead,4,2018,96.5,89.9,96.5,94.5,2018-04,April
+Hempstead,3,2018,96.5,88.3,96.5,88.1,2018-03,March
+Hempstead,2,2018,96.5,88.5,96.5,92.7,2018-02,February
+Hempstead,1,2018,96.5,84.7,96.5,84.7,2018-01,January
+Hempstead,12,2017,96.5,93.8,96.5,92.8,2017-12,December
+Hempstead,11,2017,96.5,93.9,96.5,94,2017-11,November
+Hempstead,10,2017,96.5,93.9,96.5,96.1,2017-10,October
+Hempstead,9,2017,96.5,93.7,96.5,95.6,2017-09,September
+Hempstead,8,2017,96.5,93.4,96.5,96.5,2017-08,August
+Hempstead,7,2017,96.5,92.9,96.5,95.5,2017-07,July
+Hempstead,6,2017,96.5,92.5,96.5,91.6,2017-06,June
+Hempstead,5,2017,96.5,92.7,96.5,93.7,2017-05,May
+Hempstead,4,2017,96.5,92.5,96.5,93.7,2017-04,April
+Hempstead,3,2017,96.5,92,96.5,92.9,2017-03,March
+Hempstead,2,2017,96.5,91.6,96.5,90.3,2017-02,February
+Hempstead,1,2017,96.5,92.7,96.5,92.7,2017-01,January
+Hempstead,12,2016,96.5,95.7,96.5,93.8,2016-12,December
+Hempstead,11,2016,96.5,95.9,96.5,94.7,2016-11,November
+Hempstead,10,2016,96.5,96,96.5,95.1,2016-10,October
+Hempstead,9,2016,96.5,96.2,96.5,96.8,2016-09,September
+Hempstead,8,2016,96.5,96.1,96.5,96,2016-08,August
+Hempstead,7,2016,96.5,96.1,96.5,92.5,2016-07,July
+Hempstead,6,2016,96.5,96.7,96.5,97.3,2016-06,June
+Hempstead,5,2016,96.5,96.6,96.5,98,2016-05,May
+Hempstead,4,2016,96.5,96.2,96.5,96.9,2016-04,April
+Hempstead,3,2016,96.5,95.9,96.5,97.7,2016-03,March
+Hempstead,2,2016,96.5,94.9,96.5,94.4,2016-02,February
+Hempstead,1,2016,96.5,95.5,96.5,95.5,2016-01,January
+Hempstead,12,2015,96.5,94.8,96.5,97.5,2015-12,December
+Hempstead,11,2015,96.5,94.6,96.5,95.9,2015-11,November
+Hempstead,10,2015,96.5,94.08,96.5,95.39,2015-10,October
+Hempstead,9,2015,96.5,94.3,96.5,94.6,2015-09,September
+Hempstead,8,2015,96.5,94.3,96.5,94.1,2015-08,August
+Hempstead,7,2015,96.5,94.3,96.5,92.6,2015-07,July
+Hempstead,6,2015,96.5,94.6,96.5,93.9,2015-06,June
+Hempstead,5,2015,96.5,94.7,96.5,96.2,2015-05,May
+Hempstead,4,2015,96.5,94.3,96.5,96.5,2015-04,April
+Hempstead,3,2015,96.5,93.53,96.5,94.46,2015-03,March
+Hempstead,2,2015,96.5,93.03,96.5,91.96,2015-02,February
+Hempstead,1,2015,96.5,94,96.5,94,2015-01,January
+Hempstead,12,2014,95.1,95.1,95.1,95.3,2014-12,December
+Hempstead,11,2014,95.1,95.1,95.1,96.2,2014-11,November
+Hempstead,10,2014,95.1,94.9,95.1,95.8,2014-10,October
+Hempstead,9,2014,95.1,94.8,95.1,95.7,2014-09,September
+Hempstead,8,2014,95.1,94.7,95.1,96.4,2014-08,August
+Hempstead,7,2014,95.1,94.5,95.1,96.3,2014-07,July
+Hempstead,6,2014,95.1,94.2,95.1,95,2014-06,June
+Hempstead,5,2014,95.1,94,95.1,94.9,2014-05,May
+Hempstead,4,2014,95.1,93.8,95.1,94.2,2014-04,April
+Hempstead,3,2014,95.1,93.6,95.1,95.4,2014-03,March
+Hempstead,2,2014,95.1,92.7,95.1,92.7,2014-02,February
+Hempstead,1,2014,95.1,92.7,95.1,92.7,2014-01,January
+Hempstead,12,2013,95.1,96.4,95.1,96.3,2013-12,December
+Hempstead,11,2013,95.1,96.4,95.1,94.7,2013-11,November
+Hempstead,10,2013,95.1,96.6,95.1,97.4,2013-10,October
+Hempstead,9,2013,95.1,96.5,95.1,97.4,2013-09,September
+Hempstead,8,2013,95.1,96.4,95.1,95.1,2013-08,August
+Hempstead,7,2013,95.1,96.6,95.1,96.6,2013-07,July
+Hempstead,6,2013,95.1,96.6,95.1,97,2013-06,June
+Hempstead,5,2013,95.1,96.5,95.1,95.3,2013-05,May
+Hempstead,4,2013,95.1,96.8,95.1,97.7,2013-04,April
+Hempstead,3,2013,95.1,96.5,95.1,95.9,2013-03,March
+Hempstead,2,2013,95.1,96.8,95.1,96.7,2013-02,February
+Hempstead,1,2013,95.1,97,95.1,97,2013-01,January
+Hempstead,12,2012,95.1,97,95.1,96.8,2012-12,December
+Hempstead,11,2012,95.1,97.1,95.1,91.4,2012-11,November
+Hempstead,10,2012,95.1,97.5,95.1,98.8,2012-10,October
+Hempstead,9,2012,95.1,97.4,95.1,97.6,2012-09,September
+Hempstead,8,2012,95.1,97.4,95.1,96.4,2012-08,August
+Hempstead,7,2012,95.1,97.5,95.1,97.6,2012-07,July
+Hempstead,6,2012,95.1,97.5,95.1,95.8,2012-06,June
+Hempstead,5,2012,95.1,97.8,95.1,98.2,2012-05,May
+Hempstead,4,2012,95.1,97.7,95.1,97.8,2012-04,April
+Hempstead,3,2012,95.1,97.6,95.1,97.7,2012-03,March
+Hempstead,2,2012,95.1,97.6,95.1,98.1,2012-02,February
+Hempstead,1,2012,95.1,97.2,95.1,97.2,2012-01,January
+Hempstead,12,2011,95.1,96.6,95.1,98.2,2011-12,December
+Hempstead,11,2011,95.1,96.5,95.1,97.6,2011-11,November
+Hempstead,10,2011,95.1,96.4,95.1,96.8,2011-10,October
+Hempstead,9,2011,95.1,96.3,95.1,94.5,2011-09,September
+Hempstead,8,2011,95.1,96.6,95.1,94.1,2011-08,August
+Hempstead,7,2011,95.1,96.9,95.1,97.2,2011-07,July
+Hempstead,6,2011,95.1,96.9,95.1,97.1,2011-06,June
+Hempstead,5,2011,95.1,96.9,95.1,97.4,2011-05,May
+Hempstead,4,2011,95.1,96.7,95.1,98,2011-04,April
+Hempstead,3,2011,95.1,96.3,95.1,98,2011-03,March
+Hempstead,2,2011,95.1,95.3,95.1,97.5,2011-02,February
+Hempstead,1,2011,95.1,93.4,95.1,93.4,2011-01,January
+Hempstead,12,2010,95.1,95.9,95.1,96,2010-12,December
+Hempstead,11,2010,95.1,95.7,95.1,96.6,2010-11,November
+Hempstead,10,2010,95.1,95.6,95.1,95.2,2010-10,October
+Hempstead,9,2010,95.1,95.7,95.1,96,2010-09,September
+Hempstead,8,2010,95.1,95.6,95.1,90.5,2010-08,August
+Hempstead,7,2010,95.1,96.4,95.1,95.5,2010-07,July
+Hempstead,6,2010,95.1,96.5,95.1,96.8,2010-06,June
+Hempstead,5,2010,95.1,96.5,95.1,96.2,2010-05,May
+Hempstead,4,2010,95.1,96.5,95.1,95.1,2010-04,April
+Hempstead,3,2010,95.1,97,95.1,96.2,2010-03,March
+Hempstead,2,2010,95.1,97.5,95.1,96.4,2010-02,February
+Hempstead,1,2010,95.1,98.5,95.1,98.5,2010-01,January
+Hempstead,12,2009,0,97.3,0,95.7,2009-12,December
+Hempstead,11,2009,0,97.4,0,98,2009-11,November
+Hempstead,10,2009,0,97.4,0,97.4,2009-10,October
+Hempstead,9,2009,0,97.3,0,98.1,2009-09,September
+Hempstead,8,2009,0,97.3,0,97.8,2009-08,August
+Hempstead,7,2009,0,97.2,0,97.6,2009-07,July
+Hempstead,6,2009,0,97.1,0,97.8,2009-06,June
+Hempstead,5,2009,0,97,0,97.6,2009-05,May
+Hempstead,4,2009,0,96.8,0,98.3,2009-04,April
+Hempstead,3,2009,0,96.3,0,95.6,2009-03,March
+Hempstead,2,2009,0,96.7,0,97.1,2009-02,February
+Hempstead,1,2009,0,96.3,0,96.3,2009-01,January
+Hempstead,12,2008,0,96.9,0,96.6,2008-12,December
+Hempstead,11,2008,0,96.9,0,94.2,2008-11,November
+Hempstead,10,2008,0,97.2,0,96.9,2008-10,October
+Hempstead,9,2008,0,97.2,0,97.6,2008-09,September
+Hempstead,8,2008,0,97.2,0,98.2,2008-08,August
+Hempstead,7,2008,0,97.1,0,97.8,2008-07,July
+Hempstead,6,2008,0,96.9,0,97.9,2008-06,June
+Hempstead,5,2008,0,96.7,0,96.8,2008-05,May
+Hempstead,4,2008,0,96.7,0,96.4,2008-04,April
+Hempstead,3,2008,0,96.8,0,95.6,2008-03,March
+Hempstead,2,2008,0,97.4,0,97.1,2008-02,February
+Hempstead,1,2008,0,97.7,0,97.7,2008-01,January
+Long Beach,11,2018,95.9,92.3,95.9,88.9,2018-11,November
+Long Beach,10,2018,95.9,92.6,95.9,94.3,2018-10,October
+Long Beach,9,2018,95.9,92.5,95.9,93.8,2018-09,September
+Long Beach,8,2018,95.9,92.3,95.9,91.7,2018-08,August
+Long Beach,7,2018,95.9,92.4,95.9,91.4,2018-07,July
+Long Beach,6,2018,95.9,92.6,95.9,95,2018-06,June
+Long Beach,5,2018,95.9,92.1,95.9,94.1,2018-05,May
+Long Beach,4,2018,95.9,91.5,95.9,95.1,2018-04,April
+Long Beach,3,2018,95.9,90.3,95.9,92,2018-03,March
+Long Beach,2,2018,95.9,89.5,95.9,94.3,2018-02,February
+Long Beach,1,2018,95.9,85.1,95.9,85.1,2018-01,January
+Long Beach,12,2017,95.9,93.5,95.9,92.7,2017-12,December
+Long Beach,11,2017,95.9,93.5,95.9,95.1,2017-11,November
+Long Beach,10,2017,95.9,93.4,95.9,96.4,2017-10,October
+Long Beach,9,2017,95.9,93.1,95.9,95.1,2017-09,September
+Long Beach,8,2017,95.9,92.8,95.9,96.2,2017-08,August
+Long Beach,7,2017,95.9,92.3,95.9,94,2017-07,July
+Long Beach,6,2017,95.9,92,95.9,91.7,2017-06,June
+Long Beach,5,2017,95.9,92.1,95.9,91.7,2017-05,May
+Long Beach,4,2017,95.9,92.2,95.9,93.5,2017-04,April
+Long Beach,3,2017,95.9,91.7,95.9,92.2,2017-03,March
+Long Beach,2,2017,95.9,91.5,95.9,90.5,2017-02,February
+Long Beach,1,2017,95.9,92.4,95.9,92.4,2017-01,January
+Long Beach,12,2016,95.9,94.9,95.9,94.4,2016-12,December
+Long Beach,11,2016,95.9,94.9,95.9,94.6,2016-11,November
+Long Beach,10,2016,95.9,95,95.9,96.1,2016-10,October
+Long Beach,9,2016,95.9,94.8,95.9,94.7,2016-09,September
+Long Beach,8,2016,95.9,94.9,95.9,94.2,2016-08,August
+Long Beach,7,2016,95.9,95,95.9,91.5,2016-07,July
+Long Beach,6,2016,95.9,95.6,95.9,96,2016-06,June
+Long Beach,5,2016,95.9,95.5,95.9,96.1,2016-05,May
+Long Beach,4,2016,95.9,95.3,95.9,96.4,2016-04,April
+Long Beach,3,2016,95.9,95,95.9,97,2016-03,March
+Long Beach,2,2016,95.9,93.8,95.9,93,2016-02,February
+Long Beach,1,2016,95.9,94.6,95.9,94.6,2016-01,January
+Long Beach,12,2015,95.9,93.3,95.9,96.3,2015-12,December
+Long Beach,11,2015,95.9,93,95.9,94.6,2015-11,November
+Long Beach,10,2015,95.9,92.79,95.9,93.39,2015-10,October
+Long Beach,9,2015,95.9,92.7,95.9,91.8,2015-09,September
+Long Beach,8,2015,95.9,92.9,95.9,92.6,2015-08,August
+Long Beach,7,2015,95.9,92.9,95.9,92.2,2015-07,July
+Long Beach,6,2015,95.9,93,95.9,94.4,2015-06,June
+Long Beach,5,2015,95.9,92.8,95.9,95,2015-05,May
+Long Beach,4,2015,95.9,92.2,95.9,94.5,2015-04,April
+Long Beach,3,2015,95.9,91.37,95.9,93.47,2015-03,March
+Long Beach,2,2015,95.9,90.23,95.9,90.1,2015-02,February
+Long Beach,1,2015,95.9,90.4,95.9,90.4,2015-01,January
+Long Beach,12,2014,95.1,93.7,95.1,92.7,2014-12,December
+Long Beach,11,2014,95.1,93.8,95.1,94.7,2014-11,November
+Long Beach,10,2014,95.1,93.7,95.1,94.7,2014-10,October
+Long Beach,9,2014,95.1,93.6,95.1,95.1,2014-09,September
+Long Beach,8,2014,95.1,93.4,95.1,94,2014-08,August
+Long Beach,7,2014,95.1,93.3,95.1,94.2,2014-07,July
+Long Beach,6,2014,95.1,93.1,95.1,93.8,2014-06,June
+Long Beach,5,2014,95.1,93,95.1,91.6,2014-05,May
+Long Beach,4,2014,95.1,93.3,95.1,94.7,2014-04,April
+Long Beach,3,2014,95.1,92.8,95.1,94.6,2014-03,March
+Long Beach,2,2014,95.1,92,95.1,93.2,2014-02,February
+Long Beach,1,2014,95.1,90.8,95.1,90.8,2014-01,January
+Long Beach,12,2013,95.1,95.3,95.1,97.1,2013-12,December
+Long Beach,11,2013,95.1,95.1,95.1,94.2,2013-11,November
+Long Beach,10,2013,95.1,95.2,95.1,96.6,2013-10,October
+Long Beach,9,2013,95.1,95.1,95.1,95.3,2013-09,September
+Long Beach,8,2013,95.1,95,95.1,93.4,2013-08,August
+Long Beach,7,2013,95.1,95.3,95.1,93.7,2013-07,July
+Long Beach,6,2013,95.1,95.6,95.1,96.1,2013-06,June
+Long Beach,5,2013,95.1,95.4,95.1,96.2,2013-05,May
+Long Beach,4,2013,95.1,95.3,95.1,96.3,2013-04,April
+Long Beach,3,2013,95.1,94.9,95.1,92.9,2013-03,March
+Long Beach,2,2013,95.1,95.9,95.1,96.6,2013-02,February
+Long Beach,1,2013,95.1,95.4,95.1,95.4,2013-01,January
+Long Beach,12,2012,95.1,96.3,95.1,95.4,2012-12,December
+Long Beach,11,2012,95.1,96.4,95.1,95.2,2012-11,November
+Long Beach,10,2012,95.1,96.5,95.1,96.5,2012-10,October
+Long Beach,9,2012,95.1,96.5,95.1,95.7,2012-09,September
+Long Beach,8,2012,95.1,96.6,95.1,96,2012-08,August
+Long Beach,7,2012,95.1,96.7,95.1,95.8,2012-07,July
+Long Beach,6,2012,95.1,96.8,95.1,94.9,2012-06,June
+Long Beach,5,2012,95.1,97.2,95.1,97.1,2012-05,May
+Long Beach,4,2012,95.1,97.2,95.1,96.8,2012-04,April
+Long Beach,3,2012,95.1,97.3,95.1,96.9,2012-03,March
+Long Beach,2,2012,95.1,97.6,95.1,98,2012-02,February
+Long Beach,1,2012,95.1,97.1,95.1,97.1,2012-01,January
+Long Beach,12,2011,95.1,95.8,95.1,98.1,2011-12,December
+Long Beach,11,2011,95.1,95.5,95.1,97.5,2011-11,November
+Long Beach,10,2011,95.1,95.3,95.1,96.7,2011-10,October
+Long Beach,9,2011,95.1,95.2,95.1,93.5,2011-09,September
+Long Beach,8,2011,95.1,95.4,95.1,92.5,2011-08,August
+Long Beach,7,2011,95.1,95.8,95.1,94.7,2011-07,July
+Long Beach,6,2011,95.1,96,95.1,94.9,2011-06,June
+Long Beach,5,2011,95.1,96.2,95.1,96,2011-05,May
+Long Beach,4,2011,95.1,96.3,95.1,98,2011-04,April
+Long Beach,3,2011,95.1,95.7,95.1,96.7,2011-03,March
+Long Beach,2,2011,95.1,95.1,95.1,97.3,2011-02,February
+Long Beach,1,2011,95.1,93.2,95.1,93.2,2011-01,January
+Long Beach,12,2010,95.1,95.4,95.1,95.2,2010-12,December
+Long Beach,11,2010,95.1,95.3,95.1,98,2010-11,November
+Long Beach,10,2010,95.1,95.1,95.1,96.5,2010-10,October
+Long Beach,9,2010,95.1,94.9,95.1,95.6,2010-09,September
+Long Beach,8,2010,95.1,94.8,95.1,89.4,2010-08,August
+Long Beach,7,2010,95.1,95.6,95.1,95.7,2010-07,July
+Long Beach,6,2010,95.1,95.6,95.1,95.5,2010-06,June
+Long Beach,5,2010,95.1,95.7,95.1,96.6,2010-05,May
+Long Beach,4,2010,95.1,95.4,95.1,92.9,2010-04,April
+Long Beach,3,2010,95.1,96.3,95.1,94.8,2010-03,March
+Long Beach,2,2010,95.1,97.1,95.1,96.1,2010-02,February
+Long Beach,1,2010,95.1,98.1,95.1,98.1,2010-01,January
+Long Beach,12,2009,0,96.4,0,93.8,2009-12,December
+Long Beach,11,2009,0,96.6,0,96.7,2009-11,November
+Long Beach,10,2009,0,96.6,0,97.4,2009-10,October
+Long Beach,9,2009,0,96.5,0,94.9,2009-09,September
+Long Beach,8,2009,0,96.7,0,96.3,2009-08,August
+Long Beach,7,2009,0,96.8,0,95.6,2009-07,July
+Long Beach,6,2009,0,97,0,96.6,2009-06,June
+Long Beach,5,2009,0,97.1,0,97.9,2009-05,May
+Long Beach,4,2009,0,96.9,0,97.3,2009-04,April
+Long Beach,3,2009,0,96.8,0,95.1,2009-03,March
+Long Beach,2,2009,0,97.6,0,97.6,2009-02,February
+Long Beach,1,2009,0,97.6,0,97.6,2009-01,January
+Long Beach,12,2008,0,96.4,0,97.7,2008-12,December
+Long Beach,11,2008,0,96.3,0,93.7,2008-11,November
+Long Beach,10,2008,0,96.5,0,97.1,2008-10,October
+Long Beach,9,2008,0,96.5,0,96.9,2008-09,September
+Long Beach,8,2008,0,96.4,0,96.7,2008-08,August
+Long Beach,7,2008,0,96.4,0,95.3,2008-07,July
+Long Beach,6,2008,0,96.6,0,95.8,2008-06,June
+Long Beach,5,2008,0,96.7,0,97.4,2008-05,May
+Long Beach,4,2008,0,96.5,0,96.9,2008-04,April
+Long Beach,3,2008,0,96.4,0,94.9,2008-03,March
+Long Beach,2,2008,0,97.1,0,96.1,2008-02,February
+Long Beach,1,2008,0,98.1,0,98.1,2008-01,January
+Montauk,11,2018,90.8,88.4,90.8,85.8,2018-11,November
+Montauk,10,2018,90.8,88.7,90.8,92.4,2018-10,October
+Montauk,9,2018,90.8,88.3,90.8,90.4,2018-09,September
+Montauk,8,2018,90.8,88,90.8,83.4,2018-08,August
+Montauk,7,2018,90.8,88.7,90.8,84,2018-07,July
+Montauk,6,2018,90.8,89.6,90.8,85.6,2018-06,June
+Montauk,5,2018,90.8,90.4,90.8,91.4,2018-05,May
+Montauk,4,2018,90.8,90.2,90.8,94.7,2018-04,April
+Montauk,3,2018,90.8,88.7,90.8,90.4,2018-03,March
+Montauk,2,2018,90.8,87.8,90.8,94,2018-02,February
+Montauk,1,2018,90.8,82.3,90.8,82.3,2018-01,January
+Montauk,12,2017,90.8,88.8,90.8,83.9,2017-12,December
+Montauk,11,2017,90.8,89.2,90.8,88.7,2017-11,November
+Montauk,10,2017,90.8,89.2,90.8,90.9,2017-10,October
+Montauk,9,2017,90.8,89.1,90.8,90.3,2017-09,September
+Montauk,8,2017,90.8,88.9,90.8,88.2,2017-08,August
+Montauk,7,2017,90.8,89,90.8,85.9,2017-07,July
+Montauk,6,2017,90.8,89.6,90.8,85.2,2017-06,June
+Montauk,5,2017,90.8,90.5,90.8,89,2017-05,May
+Montauk,4,2017,90.8,90.9,90.8,91.9,2017-04,April
+Montauk,3,2017,90.8,90.6,90.8,91.1,2017-03,March
+Montauk,2,2017,90.8,90.3,90.8,88.9,2017-02,February
+Montauk,1,2017,90.8,91.7,90.8,91.7,2017-01,January
+Montauk,12,2016,90.8,90.2,90.8,92.3,2016-12,December
+Montauk,11,2016,90.8,90.1,90.8,90,2016-11,November
+Montauk,10,2016,90.8,90.1,90.8,88.7,2016-10,October
+Montauk,9,2016,90.8,90.2,90.8,93.1,2016-09,September
+Montauk,8,2016,90.8,89.8,90.8,87,2016-08,August
+Montauk,7,2016,90.8,90.3,90.8,80.9,2016-07,July
+Montauk,6,2016,90.8,92,90.8,89.8,2016-06,June
+Montauk,5,2016,90.8,92.4,90.8,94.3,2016-05,May
+Montauk,4,2016,90.8,91.9,90.8,92.3,2016-04,April
+Montauk,3,2016,90.8,91.8,90.8,93.3,2016-03,March
+Montauk,2,2016,90.8,91,90.8,91.4,2016-02,February
+Montauk,1,2016,90.8,90.6,90.8,90.6,2016-01,January
+Montauk,12,2015,90.8,90,90.8,92.6,2015-12,December
+Montauk,11,2015,90.8,89.8,90.8,91.8,2015-11,November
+Montauk,10,2015,90.8,89.89,90.8,93.55,2015-10,October
+Montauk,9,2015,90.8,89.1,90.8,89.8,2015-09,September
+Montauk,8,2015,90.8,89,90.8,89.2,2015-08,August
+Montauk,7,2015,90.8,89,90.8,84.6,2015-07,July
+Montauk,6,2015,90.8,89.9,90.8,92.3,2015-06,June
+Montauk,5,2015,90.8,89.3,90.8,90.4,2015-05,May
+Montauk,4,2015,90.8,89,90.8,94.6,2015-04,April
+Montauk,3,2015,90.8,87.32,90.8,89.53,2015-03,March
+Montauk,2,2015,90.8,86.18,90.8,83.92,2015-02,February
+Montauk,1,2015,90.8,88.3,90.8,88.3,2015-01,January
+Montauk,12,2014,95.1,89.9,95.1,91.3,2014-12,December
+Montauk,11,2014,95.1,89.8,95.1,92.4,2014-11,November
+Montauk,10,2014,95.1,89.6,95.1,93.3,2014-10,October
+Montauk,9,2014,95.1,89.1,95.1,91.4,2014-09,September
+Montauk,8,2014,95.1,88.8,95.1,86.8,2014-08,August
+Montauk,7,2014,95.1,89.2,95.1,86.5,2014-07,July
+Montauk,6,2014,95.1,89.7,95.1,88.9,2014-06,June
+Montauk,5,2014,95.1,89.8,95.1,88.4,2014-05,May
+Montauk,4,2014,95.1,90.2,95.1,93.6,2014-04,April
+Montauk,3,2014,95.1,89.1,95.1,92.3,2014-03,March
+Montauk,2,2014,95.1,87.4,95.1,88.4,2014-02,February
+Montauk,1,2014,95.1,86.4,95.1,86.4,2014-01,January
+Montauk,12,2013,95.1,90.8,95.1,91.9,2013-12,December
+Montauk,11,2013,95.1,90.7,95.1,89.1,2013-11,November
+Montauk,10,2013,95.1,90.9,95.1,93.4,2013-10,October
+Montauk,9,2013,95.1,90.6,95.1,92,2013-09,September
+Montauk,8,2013,95.1,90.4,95.1,87.8,2013-08,August
+Montauk,7,2013,95.1,90.8,95.1,87.2,2013-07,July
+Montauk,6,2013,95.1,91.5,95.1,88.5,2013-06,June
+Montauk,5,2013,95.1,92.2,95.1,93,2013-05,May
+Montauk,4,2013,95.1,92,95.1,94.5,2013-04,April
+Montauk,3,2013,95.1,91.1,95.1,92.6,2013-03,March
+Montauk,2,2013,95.1,90.1,95.1,89.7,2013-02,February
+Montauk,1,2013,95.1,90.5,95.1,90.5,2013-01,January
+Montauk,12,2012,95.1,90.8,95.1,93.5,2012-12,December
+Montauk,11,2012,95.1,90.6,95.1,84.8,2012-11,November
+Montauk,10,2012,95.1,91,95.1,93.2,2012-10,October
+Montauk,9,2012,95.1,90.8,95.1,92,2012-09,September
+Montauk,8,2012,95.1,90.7,95.1,85.6,2012-08,August
+Montauk,7,2012,95.1,91.5,95.1,85.9,2012-07,July
+Montauk,6,2012,95.1,92.5,95.1,86.6,2012-06,June
+Montauk,5,2012,95.1,93.7,95.1,91,2012-05,May
+Montauk,4,2012,95.1,94.4,95.1,92.3,2012-04,April
+Montauk,3,2012,95.1,95.1,95.1,94.5,2012-03,March
+Montauk,2,2012,95.1,95.4,95.1,95,2012-02,February
+Montauk,1,2012,95.1,95.7,95.1,95.7,2012-01,January
+Montauk,12,2011,95.1,89.1,95.1,93.8,2011-12,December
+Montauk,11,2011,95.1,88.7,95.1,94.2,2011-11,November
+Montauk,10,2011,95.1,88.1,95.1,91.2,2011-10,October
+Montauk,9,2011,95.1,87.8,95.1,88.9,2011-09,September
+Montauk,8,2011,95.1,87.7,95.1,83.4,2011-08,August
+Montauk,7,2011,95.1,88.3,95.1,84,2011-07,July
+Montauk,6,2011,95.1,89.1,95.1,87.5,2011-06,June
+Montauk,5,2011,95.1,89.5,95.1,87.7,2011-05,May
+Montauk,4,2011,95.1,89.9,95.1,90.1,2011-04,April
+Montauk,3,2011,95.1,89.9,95.1,92.2,2011-03,March
+Montauk,2,2011,95.1,88.8,95.1,93.6,2011-02,February
+Montauk,1,2011,95.1,84.3,95.1,84.3,2011-01,January
+Montauk,12,2010,95.1,89.4,95.1,93,2010-12,December
+Montauk,11,2010,95.1,89,95.1,88.5,2010-11,November
+Montauk,10,2010,95.1,89.1,95.1,91.4,2010-10,October
+Montauk,9,2010,95.1,88.8,95.1,87.4,2010-09,September
+Montauk,8,2010,95.1,89,95.1,83,2010-08,August
+Montauk,7,2010,95.1,89.9,95.1,87.1,2010-07,July
+Montauk,6,2010,95.1,90.4,95.1,89.8,2010-06,June
+Montauk,5,2010,95.1,90.6,95.1,90.9,2010-05,May
+Montauk,4,2010,95.1,90.5,95.1,82.4,2010-04,April
+Montauk,3,2010,95.1,93,95.1,90,2010-03,March
+Montauk,2,2010,95.1,94.6,95.1,92.7,2010-02,February
+Montauk,1,2010,95.1,96.4,95.1,96.4,2010-01,January
+Montauk,12,2009,0,92.3,0,87.9,2009-12,December
+Montauk,11,2009,0,92.7,0,89.8,2009-11,November
+Montauk,10,2009,0,92.9,0,91.4,2009-10,October
+Montauk,9,2009,0,93.1,0,93.5,2009-09,September
+Montauk,8,2009,0,93,0,90.5,2009-08,August
+Montauk,7,2009,0,93.4,0,89.5,2009-07,July
+Montauk,6,2009,0,94.1,0,94.7,2009-06,June
+Montauk,5,2009,0,94,0,93.3,2009-05,May
+Montauk,4,2009,0,94.2,0,94.4,2009-04,April
+Montauk,3,2009,0,94.1,0,91.6,2009-03,March
+Montauk,2,2009,0,95.4,0,95.2,2009-02,February
+Montauk,1,2009,0,95.6,0,95.6,2009-01,January
+Montauk,12,2008,0,93.7,0,94.5,2008-12,December
+Montauk,11,2008,0,93.6,0,89.9,2008-11,November
+Montauk,10,2008,0,94,0,94.4,2008-10,October
+Montauk,9,2008,0,93.9,0,94.1,2008-09,September
+Montauk,8,2008,0,93.9,0,93.1,2008-08,August
+Montauk,7,2008,0,94,0,90.2,2008-07,July
+Montauk,6,2008,0,94.6,0,92.3,2008-06,June
+Montauk,5,2008,0,95.1,0,95.3,2008-05,May
+Montauk,4,2008,0,95,0,96.4,2008-04,April
+Montauk,3,2008,0,94.6,0,93,2008-03,March
+Montauk,2,2008,0,95.4,0,94.2,2008-02,February
+Montauk,1,2008,0,96.5,0,96.5,2008-01,January
+Oyster Bay,11,2018,94.1,89.8,94.1,83.3,2018-11,November
+Oyster Bay,10,2018,94.1,90.4,94.1,92.2,2018-10,October
+Oyster Bay,9,2018,94.1,90.2,94.1,93.6,2018-09,September
+Oyster Bay,8,2018,94.1,89.8,94.1,90,2018-08,August
+Oyster Bay,7,2018,94.1,89.8,94.1,91.3,2018-07,July
+Oyster Bay,6,2018,94.1,89.5,94.1,91.8,2018-06,June
+Oyster Bay,5,2018,94.1,89.1,94.1,89.6,2018-05,May
+Oyster Bay,4,2018,94.1,88.9,94.1,93.2,2018-04,April
+Oyster Bay,3,2018,94.1,87.5,94.1,85,2018-03,March
+Oyster Bay,2,2018,94.1,88.8,94.1,93.4,2018-02,February
+Oyster Bay,1,2018,94.1,84.7,94.1,84.7,2018-01,January
+Oyster Bay,12,2017,94.1,91.8,94.1,89,2017-12,December
+Oyster Bay,11,2017,94.1,92.1,94.1,91.2,2017-11,November
+Oyster Bay,10,2017,94.1,92.1,94.1,92,2017-10,October
+Oyster Bay,9,2017,94.1,92.2,94.1,95.7,2017-09,September
+Oyster Bay,8,2017,94.1,91.7,94.1,96.3,2017-08,August
+Oyster Bay,7,2017,94.1,91,94.1,94.7,2017-07,July
+Oyster Bay,6,2017,94.1,90.4,94.1,90.6,2017-06,June
+Oyster Bay,5,2017,94.1,90.4,94.1,89.4,2017-05,May
+Oyster Bay,4,2017,94.1,90.6,94.1,90.6,2017-04,April
+Oyster Bay,3,2017,94.1,90.6,94.1,88.7,2017-03,March
+Oyster Bay,2,2017,94.1,91.6,94.1,90,2017-02,February
+Oyster Bay,1,2017,94.1,93,94.1,93,2017-01,January
+Oyster Bay,12,2016,94.1,92.5,94.1,91.3,2016-12,December
+Oyster Bay,11,2016,94.1,92.6,94.1,89.6,2016-11,November
+Oyster Bay,10,2016,94.1,92.9,94.1,86.9,2016-10,October
+Oyster Bay,9,2016,94.1,93.6,94.1,97,2016-09,September
+Oyster Bay,8,2016,94.1,93.2,94.1,93.7,2016-08,August
+Oyster Bay,7,2016,94.1,93.1,94.1,91.1,2016-07,July
+Oyster Bay,6,2016,94.1,93.5,94.1,93.2,2016-06,June
+Oyster Bay,5,2016,94.1,93.5,94.1,96.1,2016-05,May
+Oyster Bay,4,2016,94.1,92.9,94.1,96.5,2016-04,April
+Oyster Bay,3,2016,94.1,91.6,94.1,93.6,2016-03,March
+Oyster Bay,2,2016,94.1,90.6,94.1,91.6,2016-02,February
+Oyster Bay,1,2016,94.1,89.5,94.1,89.5,2016-01,January
+Oyster Bay,12,2015,94.1,92.4,94.1,91.9,2015-12,December
+Oyster Bay,11,2015,94.1,92.4,94.1,91.3,2015-11,November
+Oyster Bay,10,2015,94.1,91.74,94.1,90.72,2015-10,October
+Oyster Bay,9,2015,94.1,92.6,94.1,90,2015-09,September
+Oyster Bay,8,2015,94.1,93,94.1,92.9,2015-08,August
+Oyster Bay,7,2015,94.1,93,94.1,94.1,2015-07,July
+Oyster Bay,6,2015,94.1,92.8,94.1,94.8,2015-06,June
+Oyster Bay,5,2015,94.1,92.3,94.1,94.7,2015-05,May
+Oyster Bay,4,2015,94.1,91.7,94.1,96.3,2015-04,April
+Oyster Bay,3,2015,94.1,90.09,94.1,90.95,2015-03,March
+Oyster Bay,2,2015,94.1,89.63,94.1,86.39,2015-02,February
+Oyster Bay,1,2015,94.1,92.7,94.1,92.7,2015-01,January
+Oyster Bay,12,2014,95.1,92.8,95.1,92.5,2014-12,December
+Oyster Bay,11,2014,95.1,92.8,95.1,93.8,2014-11,November
+Oyster Bay,10,2014,95.1,92.7,95.1,92.7,2014-10,October
+Oyster Bay,9,2014,95.1,92.7,95.1,94.9,2014-09,September
+Oyster Bay,8,2014,95.1,92.5,95.1,95.6,2014-08,August
+Oyster Bay,7,2014,95.1,92,95.1,93.8,2014-07,July
+Oyster Bay,6,2014,95.1,91.7,95.1,93.3,2014-06,June
+Oyster Bay,5,2014,95.1,91.3,95.1,92.3,2014-05,May
+Oyster Bay,4,2014,95.1,91.1,95.1,93,2014-04,April
+Oyster Bay,3,2014,95.1,90.5,95.1,93.7,2014-03,March
+Oyster Bay,2,2014,95.1,88.7,95.1,89.5,2014-02,February
+Oyster Bay,1,2014,95.1,88.1,95.1,88.1,2014-01,January
+Oyster Bay,12,2013,95.1,92.8,95.1,93.4,2013-12,December
+Oyster Bay,11,2013,95.1,92.8,95.1,91.6,2013-11,November
+Oyster Bay,10,2013,95.1,92.9,95.1,94.1,2013-10,October
+Oyster Bay,9,2013,95.1,92.8,95.1,92.7,2013-09,September
+Oyster Bay,8,2013,95.1,92.8,95.1,92.1,2013-08,August
+Oyster Bay,7,2013,95.1,92.9,95.1,95,2013-07,July
+Oyster Bay,6,2013,95.1,92.5,95.1,92.8,2013-06,June
+Oyster Bay,5,2013,95.1,92.5,95.1,93.5,2013-05,May
+Oyster Bay,4,2013,95.1,92.2,95.1,89.8,2013-04,April
+Oyster Bay,3,2013,95.1,93,95.1,91.7,2013-03,March
+Oyster Bay,2,2013,95.1,93.7,95.1,93.6,2013-02,February
+Oyster Bay,1,2013,95.1,93.8,95.1,93.8,2013-01,January
+Oyster Bay,12,2012,95.1,94.7,95.1,93.1,2012-12,December
+Oyster Bay,11,2012,95.1,94.9,95.1,89,2012-11,November
+Oyster Bay,10,2012,95.1,95.4,95.1,96.1,2012-10,October
+Oyster Bay,9,2012,95.1,95.3,95.1,94.2,2012-09,September
+Oyster Bay,8,2012,95.1,95.4,95.1,96.1,2012-08,August
+Oyster Bay,7,2012,95.1,95.3,95.1,91.8,2012-07,July
+Oyster Bay,6,2012,95.1,95.9,95.1,95,2012-06,June
+Oyster Bay,5,2012,95.1,96.1,95.1,95.4,2012-05,May
+Oyster Bay,4,2012,95.1,96.3,95.1,97.1,2012-04,April
+Oyster Bay,3,2012,95.1,96,95.1,96.5,2012-03,March
+Oyster Bay,2,2012,95.1,95.8,95.1,96.1,2012-02,February
+Oyster Bay,1,2012,95.1,95.5,95.1,95.5,2012-01,January
+Oyster Bay,12,2011,95.1,94,95.1,95.7,2011-12,December
+Oyster Bay,11,2011,95.1,93.8,95.1,95.3,2011-11,November
+Oyster Bay,10,2011,95.1,93.7,95.1,93.1,2011-10,October
+Oyster Bay,9,2011,95.1,93.7,95.1,92.4,2011-09,September
+Oyster Bay,8,2011,95.1,93.9,95.1,93.1,2011-08,August
+Oyster Bay,7,2011,95.1,94,95.1,96,2011-07,July
+Oyster Bay,6,2011,95.1,93.7,95.1,93.8,2011-06,June
+Oyster Bay,5,2011,95.1,93.7,95.1,94.6,2011-05,May
+Oyster Bay,4,2011,95.1,93.5,95.1,97.9,2011-04,April
+Oyster Bay,3,2011,95.1,92,95.1,96.9,2011-03,March
+Oyster Bay,2,2011,95.1,89.2,95.1,92.3,2011-02,February
+Oyster Bay,1,2011,95.1,86.5,95.1,86.5,2011-01,January
+Oyster Bay,12,2010,95.1,93.3,95.1,92,2010-12,December
+Oyster Bay,11,2010,95.1,93.1,95.1,93.8,2010-11,November
+Oyster Bay,10,2010,95.1,93,95.1,92.7,2010-10,October
+Oyster Bay,9,2010,95.1,93.1,95.1,92,2010-09,September
+Oyster Bay,8,2010,95.1,93.2,95.1,85.6,2010-08,August
+Oyster Bay,7,2010,95.1,94.3,95.1,94.7,2010-07,July
+Oyster Bay,6,2010,95.1,94.3,95.1,93.4,2010-06,June
+Oyster Bay,5,2010,95.1,94.5,95.1,96,2010-05,May
+Oyster Bay,4,2010,95.1,94.1,95.1,94.1,2010-04,April
+Oyster Bay,3,2010,95.1,94.1,95.1,93.3,2010-03,March
+Oyster Bay,2,2010,95.1,94.5,95.1,91.4,2010-02,February
+Oyster Bay,1,2010,95.1,97.3,95.1,97.3,2010-01,January
+Oyster Bay,12,2009,0,94.9,0,90.9,2009-12,December
+Oyster Bay,11,2009,0,95.3,0,95.1,2009-11,November
+Oyster Bay,10,2009,0,95.3,0,93.6,2009-10,October
+Oyster Bay,9,2009,0,95.5,0,95.1,2009-09,September
+Oyster Bay,8,2009,0,95.5,0,96.3,2009-08,August
+Oyster Bay,7,2009,0,95.4,0,95.4,2009-07,July
+Oyster Bay,6,2009,0,95.4,0,95.2,2009-06,June
+Oyster Bay,5,2009,0,95.5,0,96.5,2009-05,May
+Oyster Bay,4,2009,0,95.2,0,96.9,2009-04,April
+Oyster Bay,3,2009,0,94.6,0,94.6,2009-03,March
+Oyster Bay,2,2009,0,94.6,0,93.7,2009-02,February
+Oyster Bay,1,2009,0,95.3,0,95.3,2009-01,January
+Oyster Bay,12,2008,0,93.7,0,95.8,2008-12,December
+Oyster Bay,11,2008,0,93.5,0,88.4,2008-11,November
+Oyster Bay,10,2008,0,94,0,91.8,2008-10,October
+Oyster Bay,9,2008,0,94.2,0,92.8,2008-09,September
+Oyster Bay,8,2008,0,94.4,0,94.4,2008-08,August
+Oyster Bay,7,2008,0,94.4,0,94.7,2008-07,July
+Oyster Bay,6,2008,0,94.3,0,94.4,2008-06,June
+Oyster Bay,5,2008,0,94.3,0,95.8,2008-05,May
+Oyster Bay,4,2008,0,93.9,0,94,2008-04,April
+Oyster Bay,3,2008,0,93.9,0,92.6,2008-03,March
+Oyster Bay,2,2008,0,94.6,0,93.4,2008-02,February
+Oyster Bay,1,2008,0,95.7,0,95.7,2008-01,January
+Port Jefferson,11,2018,90.9,87.7,90.9,80,2018-11,November
+Port Jefferson,10,2018,90.9,88.5,90.9,88.5,2018-10,October
+Port Jefferson,9,2018,90.9,88.5,90.9,91.1,2018-09,September
+Port Jefferson,8,2018,90.9,88.2,90.9,88.8,2018-08,August
+Port Jefferson,7,2018,90.9,88.1,90.9,88.2,2018-07,July
+Port Jefferson,6,2018,90.9,88.1,90.9,93.6,2018-06,June
+Port Jefferson,5,2018,90.9,87.1,90.9,89.8,2018-05,May
+Port Jefferson,4,2018,90.9,86.4,90.9,90.6,2018-04,April
+Port Jefferson,3,2018,90.9,85,90.9,83.5,2018-03,March
+Port Jefferson,2,2018,90.9,85.8,90.9,89,2018-02,February
+Port Jefferson,1,2018,90.9,83,90.9,83,2018-01,January
+Port Jefferson,12,2017,90.9,90.4,90.9,85.5,2017-12,December
+Port Jefferson,11,2017,90.9,90.9,90.9,87.8,2017-11,November
+Port Jefferson,10,2017,90.9,91.2,90.9,92.6,2017-10,October
+Port Jefferson,9,2017,90.9,91,90.9,94.7,2017-09,September
+Port Jefferson,8,2017,90.9,90.6,90.9,94.3,2017-08,August
+Port Jefferson,7,2017,90.9,90.1,90.9,92.8,2017-07,July
+Port Jefferson,6,2017,90.9,89.6,90.9,91.2,2017-06,June
+Port Jefferson,5,2017,90.9,89.3,90.9,88.7,2017-05,May
+Port Jefferson,4,2017,90.9,89.4,90.9,91.3,2017-04,April
+Port Jefferson,3,2017,90.9,88.8,90.9,87,2017-03,March
+Port Jefferson,2,2017,90.9,89.7,90.9,86.1,2017-02,February
+Port Jefferson,1,2017,90.9,92.9,90.9,92.9,2017-01,January
+Port Jefferson,12,2016,90.9,89.9,90.9,87.5,2016-12,December
+Port Jefferson,11,2016,90.9,90.1,90.9,89.3,2016-11,November
+Port Jefferson,10,2016,90.9,90.2,90.9,89.4,2016-10,October
+Port Jefferson,9,2016,90.9,90.3,90.9,92.9,2016-09,September
+Port Jefferson,8,2016,90.9,89.9,90.9,90.9,2016-08,August
+Port Jefferson,7,2016,90.9,89.8,90.9,88.4,2016-07,July
+Port Jefferson,6,2016,90.9,90,90.9,90.8,2016-06,June
+Port Jefferson,5,2016,90.9,89.9,90.9,94.4,2016-05,May
+Port Jefferson,4,2016,90.9,88.7,90.9,91.7,2016-04,April
+Port Jefferson,3,2016,90.9,87.7,90.9,88.1,2016-03,March
+Port Jefferson,2,2016,90.9,87.5,90.9,88.3,2016-02,February
+Port Jefferson,1,2016,90.9,86.8,90.9,86.8,2016-01,January
+Port Jefferson,12,2015,90.9,87,90.9,88.4,2015-12,December
+Port Jefferson,11,2015,90.9,86.9,90.9,87.3,2015-11,November
+Port Jefferson,10,2015,90.9,85.69,90.9,84.01,2015-10,October
+Port Jefferson,9,2015,90.9,87,90.9,82.4,2015-09,September
+Port Jefferson,8,2015,90.9,87.6,90.9,88.9,2015-08,August
+Port Jefferson,7,2015,90.9,87.4,90.9,89.8,2015-07,July
+Port Jefferson,6,2015,90.9,87,90.9,88.4,2015-06,June
+Port Jefferson,5,2015,90.9,86.7,90.9,92.5,2015-05,May
+Port Jefferson,4,2015,90.9,85.4,90.9,92.2,2015-04,April
+Port Jefferson,3,2015,90.9,83.01,90.9,85.03,2015-03,March
+Port Jefferson,2,2015,90.9,81.95,90.9,77.44,2015-02,February
+Port Jefferson,1,2015,90.9,86.1,90.9,86.1,2015-01,January
+Port Jefferson,12,2014,95.1,88,95.1,88,2014-12,December
+Port Jefferson,11,2014,95.1,88,95.1,88.4,2014-11,November
+Port Jefferson,10,2014,95.1,87.9,95.1,87.6,2014-10,October
+Port Jefferson,9,2014,95.1,88,95.1,91.7,2014-09,September
+Port Jefferson,8,2014,95.1,87.5,95.1,90.6,2014-08,August
+Port Jefferson,7,2014,95.1,87.1,95.1,90.5,2014-07,July
+Port Jefferson,6,2014,95.1,86.5,95.1,92.4,2014-06,June
+Port Jefferson,5,2014,95.1,85.3,95.1,88.3,2014-05,May
+Port Jefferson,4,2014,95.1,84.5,95.1,87.7,2014-04,April
+Port Jefferson,3,2014,95.1,83.4,95.1,87.9,2014-03,March
+Port Jefferson,2,2014,95.1,81.1,95.1,79.1,2014-02,February
+Port Jefferson,1,2014,95.1,82.9,95.1,82.9,2014-01,January
+Port Jefferson,12,2013,95.1,91.3,95.1,90.1,2013-12,December
+Port Jefferson,11,2013,95.1,91.4,95.1,89.6,2013-11,November
+Port Jefferson,10,2013,95.1,91.5,95.1,94.6,2013-10,October
+Port Jefferson,9,2013,95.1,91.2,95.1,93.3,2013-09,September
+Port Jefferson,8,2013,95.1,90.9,95.1,91.5,2013-08,August
+Port Jefferson,7,2013,95.1,90.8,95.1,93.3,2013-07,July
+Port Jefferson,6,2013,95.1,90.4,95.1,89.7,2013-06,June
+Port Jefferson,5,2013,95.1,90.6,95.1,91.8,2013-05,May
+Port Jefferson,4,2013,95.1,90.2,95.1,92.4,2013-04,April
+Port Jefferson,3,2013,95.1,89.5,95.1,89.7,2013-03,March
+Port Jefferson,2,2013,95.1,89.4,95.1,89.4,2013-02,February
+Port Jefferson,1,2013,95.1,89.4,95.1,89.4,2013-01,January
+Port Jefferson,12,2012,95.1,90.5,95.1,86.9,2012-12,December
+Port Jefferson,11,2012,95.1,90.9,95.1,82.6,2012-11,November
+Port Jefferson,10,2012,95.1,91.5,95.1,91.9,2012-10,October
+Port Jefferson,9,2012,95.1,91.5,95.1,89.3,2012-09,September
+Port Jefferson,8,2012,95.1,91.8,95.1,89.3,2012-08,August
+Port Jefferson,7,2012,95.1,92.2,95.1,89.9,2012-07,July
+Port Jefferson,6,2012,95.1,92.5,95.1,88.1,2012-06,June
+Port Jefferson,5,2012,95.1,93.4,95.1,93.1,2012-05,May
+Port Jefferson,4,2012,95.1,93.5,95.1,94.2,2012-04,April
+Port Jefferson,3,2012,95.1,93.3,95.1,93.9,2012-03,March
+Port Jefferson,2,2012,95.1,92.9,95.1,92.7,2012-02,February
+Port Jefferson,1,2012,95.1,93.1,95.1,93.1,2012-01,January
+Port Jefferson,12,2011,95.1,90.4,95.1,90.4,2011-12,December
+Port Jefferson,11,2011,95.1,90.4,95.1,89.3,2011-11,November
+Port Jefferson,10,2011,95.1,90.5,95.1,91.6,2011-10,October
+Port Jefferson,9,2011,95.1,90.4,95.1,88.2,2011-09,September
+Port Jefferson,8,2011,95.1,90.6,95.1,90.7,2011-08,August
+Port Jefferson,7,2011,95.1,90.6,95.1,93,2011-07,July
+Port Jefferson,6,2011,95.1,90.2,95.1,92.1,2011-06,June
+Port Jefferson,5,2011,95.1,89.8,95.1,91.5,2011-05,May
+Port Jefferson,4,2011,95.1,89.4,95.1,92,2011-04,April
+Port Jefferson,3,2011,95.1,88.5,95.1,93.7,2011-03,March
+Port Jefferson,2,2011,95.1,85.7,95.1,90,2011-02,February
+Port Jefferson,1,2011,95.1,81.7,95.1,81.7,2011-01,January
+Port Jefferson,12,2010,95.1,90.1,95.1,90.3,2010-12,December
+Port Jefferson,11,2010,95.1,90,95.1,90.4,2010-11,November
+Port Jefferson,10,2010,95.1,89.9,95.1,92.3,2010-10,October
+Port Jefferson,9,2010,95.1,89.7,95.1,90.6,2010-09,September
+Port Jefferson,8,2010,95.1,89.6,95.1,83.7,2010-08,August
+Port Jefferson,7,2010,95.1,90.4,95.1,87.6,2010-07,July
+Port Jefferson,6,2010,95.1,90.9,95.1,90.8,2010-06,June
+Port Jefferson,5,2010,95.1,90.9,95.1,91.1,2010-05,May
+Port Jefferson,4,2010,95.1,90.9,95.1,90.2,2010-04,April
+Port Jefferson,3,2010,95.1,91.1,95.1,90.5,2010-03,March
+Port Jefferson,2,2010,95.1,91.5,95.1,88.6,2010-02,February
+Port Jefferson,1,2010,95.1,94.2,95.1,94.2,2010-01,January
+Port Jefferson,12,2009,0,93.4,0,89,2009-12,December
+Port Jefferson,11,2009,0,93.8,0,92.6,2009-11,November
+Port Jefferson,10,2009,0,93.9,0,93.6,2009-10,October
+Port Jefferson,9,2009,0,94,0,94.9,2009-09,September
+Port Jefferson,8,2009,0,93.9,0,96.3,2009-08,August
+Port Jefferson,7,2009,0,93.5,0,92.6,2009-07,July
+Port Jefferson,6,2009,0,93.7,0,94,2009-06,June
+Port Jefferson,5,2009,0,93.6,0,95.5,2009-05,May
+Port Jefferson,4,2009,0,93.1,0,95.1,2009-04,April
+Port Jefferson,3,2009,0,92.5,0,90.4,2009-03,March
+Port Jefferson,2,2009,0,93.5,0,93.1,2009-02,February
+Port Jefferson,1,2009,0,94,0,94,2009-01,January
+Port Jefferson,12,2008,0,91.1,0,88.7,2008-12,December
+Port Jefferson,11,2008,0,91.4,0,86.7,2008-11,November
+Port Jefferson,10,2008,0,91.8,0,92.6,2008-10,October
+Port Jefferson,9,2008,0,91.8,0,93.9,2008-09,September
+Port Jefferson,8,2008,0,91.5,0,91.7,2008-08,August
+Port Jefferson,7,2008,0,91.5,0,88.8,2008-07,July
+Port Jefferson,6,2008,0,91.9,0,88.9,2008-06,June
+Port Jefferson,5,2008,0,92.5,0,92.6,2008-05,May
+Port Jefferson,4,2008,0,92.5,0,94.1,2008-04,April
+Port Jefferson,3,2008,0,92,0,90.8,2008-03,March
+Port Jefferson,2,2008,0,92.6,0,91.4,2008-02,February
+Port Jefferson,1,2008,0,93.8,0,93.8,2008-01,January
+Port Washington,11,2018,95.3,90.4,95.3,88.9,2018-11,November
+Port Washington,10,2018,95.3,90.6,95.3,93.3,2018-10,October
+Port Washington,9,2018,95.3,90.3,95.3,90.9,2018-09,September
+Port Washington,8,2018,95.3,90.2,95.3,83.8,2018-08,August
+Port Washington,7,2018,95.3,91.1,95.3,88.5,2018-07,July
+Port Washington,6,2018,95.3,91.5,95.3,92.1,2018-06,June
+Port Washington,5,2018,95.3,91.4,95.3,93.5,2018-05,May
+Port Washington,4,2018,95.3,90.9,95.3,93.1,2018-04,April
+Port Washington,3,2018,95.3,90.2,95.3,88,2018-03,March
+Port Washington,2,2018,95.3,91.4,95.3,95.4,2018-02,February
+Port Washington,1,2018,95.3,87.7,95.3,87.7,2018-01,January
+Port Washington,12,2017,95.3,91.1,95.3,91.8,2017-12,December
+Port Washington,11,2017,95.3,91,95.3,93.2,2017-11,November
+Port Washington,10,2017,95.3,90.8,95.3,95.1,2017-10,October
+Port Washington,9,2017,95.3,90.3,95.3,92.6,2017-09,September
+Port Washington,8,2017,95.3,90,95.3,90.3,2017-08,August
+Port Washington,7,2017,95.3,90,95.3,93.8,2017-07,July
+Port Washington,6,2017,95.3,89.3,95.3,86.7,2017-06,June
+Port Washington,5,2017,95.3,89.8,95.3,84.6,2017-05,May
+Port Washington,4,2017,95.3,91.2,95.3,89.7,2017-04,April
+Port Washington,3,2017,95.3,91.7,95.3,91.5,2017-03,March
+Port Washington,2,2017,95.3,91.8,95.3,92.3,2017-02,February
+Port Washington,1,2017,95.3,91.4,95.3,91.4,2017-01,January
+Port Washington,12,2016,95.3,93.1,95.3,91.6,2016-12,December
+Port Washington,11,2016,95.3,93.2,95.3,93.3,2016-11,November
+Port Washington,10,2016,95.3,93.2,95.3,95.3,2016-10,October
+Port Washington,9,2016,95.3,93,95.3,92.8,2016-09,September
+Port Washington,8,2016,95.3,93,95.3,89.6,2016-08,August
+Port Washington,7,2016,95.3,93.5,95.3,90.8,2016-07,July
+Port Washington,6,2016,95.3,94,95.3,91.1,2016-06,June
+Port Washington,5,2016,95.3,94.6,95.3,93.1,2016-05,May
+Port Washington,4,2016,95.3,94.9,95.3,95.3,2016-04,April
+Port Washington,3,2016,95.3,94.8,95.3,97.7,2016-03,March
+Port Washington,2,2016,95.3,93.2,95.3,93.1,2016-02,February
+Port Washington,1,2016,95.3,93.4,95.3,93.4,2016-01,January
+Port Washington,12,2015,95.3,91.8,95.3,96.5,2015-12,December
+Port Washington,11,2015,95.3,91.4,95.3,93.3,2015-11,November
+Port Washington,10,2015,95.3,90.69,95.3,90.64,2015-10,October
+Port Washington,9,2015,95.3,91.1,95.3,90.9,2015-09,September
+Port Washington,8,2015,95.3,91.1,95.3,90.8,2015-08,August
+Port Washington,7,2015,95.3,91.1,95.3,90.7,2015-07,July
+Port Washington,6,2015,95.3,91.2,95.3,92.9,2015-06,June
+Port Washington,5,2015,95.3,90.9,95.3,89.4,2015-05,May
+Port Washington,4,2015,95.3,91.2,95.3,93.6,2015-04,April
+Port Washington,3,2015,95.3,90.42,95.3,92.31,2015-03,March
+Port Washington,2,2015,95.3,89.4,95.3,87.05,2015-02,February
+Port Washington,1,2015,95.3,91.6,95.3,91.6,2015-01,January
+Port Washington,12,2014,95.1,93,95.1,88.8,2014-12,December
+Port Washington,11,2014,95.1,93.4,95.1,93.5,2014-11,November
+Port Washington,10,2014,95.1,93.3,95.1,93,2014-10,October
+Port Washington,9,2014,95.1,93.4,95.1,91.2,2014-09,September
+Port Washington,8,2014,95.1,93.7,95.1,93.9,2014-08,August
+Port Washington,7,2014,95.1,93.6,95.1,94.4,2014-07,July
+Port Washington,6,2014,95.1,93.5,95.1,94.7,2014-06,June
+Port Washington,5,2014,95.1,93.3,95.1,91.7,2014-05,May
+Port Washington,4,2014,95.1,93.7,95.1,94.3,2014-04,April
+Port Washington,3,2014,95.1,93.4,95.1,95.5,2014-03,March
+Port Washington,2,2014,95.1,92.4,95.1,94.5,2014-02,February
+Port Washington,1,2014,95.1,90.4,95.1,90.4,2014-01,January
+Port Washington,12,2013,95.1,94.3,95.1,94.4,2013-12,December
+Port Washington,11,2013,95.1,94.2,95.1,94.1,2013-11,November
+Port Washington,10,2013,95.1,94.3,95.1,95.8,2013-10,October
+Port Washington,9,2013,95.1,94.1,95.1,94.2,2013-09,September
+Port Washington,8,2013,95.1,94.1,95.1,90.8,2013-08,August
+Port Washington,7,2013,95.1,94.6,95.1,93.1,2013-07,July
+Port Washington,6,2013,95.1,94.8,95.1,94.2,2013-06,June
+Port Washington,5,2013,95.1,94.9,95.1,93.1,2013-05,May
+Port Washington,4,2013,95.1,95.4,95.1,96,2013-04,April
+Port Washington,3,2013,95.1,95.2,95.1,95.6,2013-03,March
+Port Washington,2,2013,95.1,95,95.1,96.4,2013-02,February
+Port Washington,1,2013,95.1,93.8,95.1,93.8,2013-01,January
+Port Washington,12,2012,95.1,95.4,95.1,93.6,2012-12,December
+Port Washington,11,2012,95.1,95.5,95.1,90.4,2012-11,November
+Port Washington,10,2012,95.1,96,95.1,96.1,2012-10,October
+Port Washington,9,2012,95.1,95.9,95.1,95.9,2012-09,September
+Port Washington,8,2012,95.1,96,95.1,94.8,2012-08,August
+Port Washington,7,2012,95.1,96.1,95.1,96,2012-07,July
+Port Washington,6,2012,95.1,96.1,95.1,93.3,2012-06,June
+Port Washington,5,2012,95.1,96.8,95.1,95.7,2012-05,May
+Port Washington,4,2012,95.1,97.1,95.1,97.4,2012-04,April
+Port Washington,3,2012,95.1,97,95.1,97.6,2012-03,March
+Port Washington,2,2012,95.1,96.6,95.1,96.8,2012-02,February
+Port Washington,1,2012,95.1,96.5,95.1,96.5,2012-01,January
+Port Washington,12,2011,95.1,95,95.1,98.2,2011-12,December
+Port Washington,11,2011,95.1,94.7,95.1,95.7,2011-11,November
+Port Washington,10,2011,95.1,94.6,95.1,96.4,2011-10,October
+Port Washington,9,2011,95.1,94.4,95.1,92.7,2011-09,September
+Port Washington,8,2011,95.1,94.6,95.1,90.4,2011-08,August
+Port Washington,7,2011,95.1,95.2,95.1,94.2,2011-07,July
+Port Washington,6,2011,95.1,95.4,95.1,94,2011-06,June
+Port Washington,5,2011,95.1,95.7,95.1,95.6,2011-05,May
+Port Washington,4,2011,95.1,95.7,95.1,96.4,2011-04,April
+Port Washington,3,2011,95.1,95.5,95.1,97.3,2011-03,March
+Port Washington,2,2011,95.1,94.4,95.1,96.2,2011-02,February
+Port Washington,1,2011,95.1,92.9,95.1,92.9,2011-01,January
+Port Washington,12,2010,95.1,92.9,95.1,94.3,2010-12,December
+Port Washington,11,2010,95.1,92.8,95.1,94.2,2010-11,November
+Port Washington,10,2010,95.1,92.7,95.1,94.8,2010-10,October
+Port Washington,9,2010,95.1,92.5,95.1,90.6,2010-09,September
+Port Washington,8,2010,95.1,92.7,95.1,94.3,2010-08,August
+Port Washington,7,2010,95.1,92.5,95.1,90.3,2010-07,July
+Port Washington,6,2010,95.1,92.8,95.1,87.3,2010-06,June
+Port Washington,5,2010,95.1,94,95.1,91.7,2010-05,May
+Port Washington,4,2010,95.1,94.6,95.1,91.9,2010-04,April
+Port Washington,3,2010,95.1,95.4,95.1,95.2,2010-03,March
+Port Washington,2,2010,95.1,95.6,95.1,93.8,2010-02,February
+Port Washington,1,2010,95.1,97.2,95.1,97.2,2010-01,January
+Port Washington,12,2009,0,96.1,0,93.6,2009-12,December
+Port Washington,11,2009,0,96.4,0,97.1,2009-11,November
+Port Washington,10,2009,0,96.3,0,96.3,2009-10,October
+Port Washington,9,2009,0,96.3,0,94.9,2009-09,September
+Port Washington,8,2009,0,96.5,0,95.7,2009-08,August
+Port Washington,7,2009,0,96.6,0,94.9,2009-07,July
+Port Washington,6,2009,0,96.9,0,95.2,2009-06,June
+Port Washington,5,2009,0,97.2,0,98.2,2009-05,May
+Port Washington,4,2009,0,97,0,96.9,2009-04,April
+Port Washington,3,2009,0,97,0,95.8,2009-03,March
+Port Washington,2,2009,0,97.7,0,96.7,2009-02,February
+Port Washington,1,2009,0,98.5,0,98.5,2009-01,January
+Port Washington,12,2008,0,95.8,0,97.4,2008-12,December
+Port Washington,11,2008,0,95.7,0,97.2,2008-11,November
+Port Washington,10,2008,0,95.5,0,96.6,2008-10,October
+Port Washington,9,2008,0,95.4,0,94.4,2008-09,September
+Port Washington,8,2008,0,95.5,0,94.9,2008-08,August
+Port Washington,7,2008,0,95.6,0,93.3,2008-07,July
+Port Washington,6,2008,0,96,0,95.9,2008-06,June
+Port Washington,5,2008,0,96,0,95.7,2008-05,May
+Port Washington,4,2008,0,96.1,0,95.5,2008-04,April
+Port Washington,3,2008,0,96.3,0,95.1,2008-03,March
+Port Washington,2,2008,0,96.8,0,96.4,2008-02,February
+Port Washington,1,2008,0,97.1,0,97.1,2008-01,January
+Greenport/Ronkonkoma,11,2018,91.6,86.2,91.6,86.7,2018-11,November
+Greenport/Ronkonkoma,10,2018,91.6,86.1,91.6,90.4,2018-10,October
+Greenport/Ronkonkoma,9,2018,91.6,85.6,91.6,88.3,2018-09,September
+Greenport/Ronkonkoma,8,2018,91.6,85.3,91.6,77.8,2018-08,August
+Greenport/Ronkonkoma,7,2018,91.6,86.5,91.6,82.9,2018-07,July
+Greenport/Ronkonkoma,6,2018,91.6,87.1,91.6,88.3,2018-06,June
+Greenport/Ronkonkoma,5,2018,91.6,86.9,91.6,88.7,2018-05,May
+Greenport/Ronkonkoma,4,2018,91.6,86.4,91.6,92.1,2018-04,April
+Greenport/Ronkonkoma,3,2018,91.6,84.3,91.6,83.8,2018-03,March
+Greenport/Ronkonkoma,2,2018,91.6,84.5,91.6,90.3,2018-02,February
+Greenport/Ronkonkoma,1,2018,91.6,78.9,91.6,78.9,2018-01,January
+Greenport/Ronkonkoma,12,2017,91.6,88.9,91.6,85.3,2017-12,December
+Greenport/Ronkonkoma,11,2017,91.6,89.2,91.6,87.8,2017-11,November
+Greenport/Ronkonkoma,10,2017,91.6,89.3,91.6,91.4,2017-10,October
+Greenport/Ronkonkoma,9,2017,91.6,89.1,91.6,90.8,2017-09,September
+Greenport/Ronkonkoma,8,2017,91.6,88.9,91.6,92.5,2017-08,August
+Greenport/Ronkonkoma,7,2017,91.6,88.4,91.6,91.3,2017-07,July
+Greenport/Ronkonkoma,6,2017,91.6,87.8,91.6,86,2017-06,June
+Greenport/Ronkonkoma,5,2017,91.6,88.2,91.6,85.8,2017-05,May
+Greenport/Ronkonkoma,4,2017,91.6,88.9,91.6,89.2,2017-04,April
+Greenport/Ronkonkoma,3,2017,91.6,88.8,91.6,88.7,2017-03,March
+Greenport/Ronkonkoma,2,2017,91.6,88.8,91.6,85.5,2017-02,February
+Greenport/Ronkonkoma,1,2017,91.6,91.7,91.6,91.7,2017-01,January
+Greenport/Ronkonkoma,12,2016,91.6,90.4,91.6,87.3,2016-12,December
+Greenport/Ronkonkoma,11,2016,91.6,90.7,91.6,87.5,2016-11,November
+Greenport/Ronkonkoma,10,2016,91.6,91,91.6,87,2016-10,October
+Greenport/Ronkonkoma,9,2016,91.6,91.5,91.6,92.4,2016-09,September
+Greenport/Ronkonkoma,8,2016,91.6,91.4,91.6,90.5,2016-08,August
+Greenport/Ronkonkoma,7,2016,91.6,91.5,91.6,87.6,2016-07,July
+Greenport/Ronkonkoma,6,2016,91.6,92.2,91.6,93.7,2016-06,June
+Greenport/Ronkonkoma,5,2016,91.6,91.9,91.6,93.6,2016-05,May
+Greenport/Ronkonkoma,4,2016,91.6,91.4,91.6,93.3,2016-04,April
+Greenport/Ronkonkoma,3,2016,91.6,90.8,91.6,93.4,2016-03,March
+Greenport/Ronkonkoma,2,2016,91.6,89.3,91.6,91,2016-02,February
+Greenport/Ronkonkoma,1,2016,91.6,87.6,91.6,87.6,2016-01,January
+Greenport/Ronkonkoma,12,2015,91.6,89.2,91.6,91,2015-12,December
+Greenport/Ronkonkoma,11,2015,91.6,89,91.6,91.7,2015-11,November
+Greenport/Ronkonkoma,10,2015,91.6,88.57,91.6,91.52,2015-10,October
+Greenport/Ronkonkoma,9,2015,91.6,88.4,91.6,86.8,2015-09,September
+Greenport/Ronkonkoma,8,2015,91.6,88.6,91.6,88.1,2015-08,August
+Greenport/Ronkonkoma,7,2015,91.6,88.7,91.6,90.1,2015-07,July
+Greenport/Ronkonkoma,6,2015,91.6,88.4,91.6,92.2,2015-06,June
+Greenport/Ronkonkoma,5,2015,91.6,87.6,91.6,93.1,2015-05,May
+Greenport/Ronkonkoma,4,2015,91.6,86.2,91.6,90.5,2015-04,April
+Greenport/Ronkonkoma,3,2015,91.6,84.73,91.6,83.19,2015-03,March
+Greenport/Ronkonkoma,2,2015,91.6,85.57,91.6,84.22,2015-02,February
+Greenport/Ronkonkoma,1,2015,91.6,86.8,91.6,86.8,2015-01,January
+Greenport/Ronkonkoma,12,2014,95.1,90.3,95.1,90.1,2014-12,December
+Greenport/Ronkonkoma,11,2014,95.1,90.3,95.1,89.8,2014-11,November
+Greenport/Ronkonkoma,10,2014,95.1,90.4,95.1,90.1,2014-10,October
+Greenport/Ronkonkoma,9,2014,95.1,90.4,95.1,93.1,2014-09,September
+Greenport/Ronkonkoma,8,2014,95.1,90.1,95.1,92.4,2014-08,August
+Greenport/Ronkonkoma,7,2014,95.1,89.7,95.1,93.3,2014-07,July
+Greenport/Ronkonkoma,6,2014,95.1,89.1,95.1,90.5,2014-06,June
+Greenport/Ronkonkoma,5,2014,95.1,88.8,95.1,90.3,2014-05,May
+Greenport/Ronkonkoma,4,2014,95.1,88.4,95.1,92.5,2014-04,April
+Greenport/Ronkonkoma,3,2014,95.1,87,95.1,90.6,2014-03,March
+Greenport/Ronkonkoma,2,2014,95.1,85.2,95.1,86.5,2014-02,February
+Greenport/Ronkonkoma,1,2014,95.1,83.9,95.1,83.9,2014-01,January
+Greenport/Ronkonkoma,12,2013,95.1,91.2,95.1,89.5,2013-12,December
+Greenport/Ronkonkoma,11,2013,95.1,91.3,95.1,89.3,2013-11,November
+Greenport/Ronkonkoma,10,2013,95.1,91.5,95.1,92.9,2013-10,October
+Greenport/Ronkonkoma,9,2013,95.1,91.4,95.1,92.5,2013-09,September
+Greenport/Ronkonkoma,8,2013,95.1,91.2,95.1,90.1,2013-08,August
+Greenport/Ronkonkoma,7,2013,95.1,91.4,95.1,93.5,2013-07,July
+Greenport/Ronkonkoma,6,2013,95.1,91,95.1,92.7,2013-06,June
+Greenport/Ronkonkoma,5,2013,95.1,90.7,95.1,92.9,2013-05,May
+Greenport/Ronkonkoma,4,2013,95.1,90.1,95.1,93.4,2013-04,April
+Greenport/Ronkonkoma,3,2013,95.1,88.9,95.1,89.7,2013-03,March
+Greenport/Ronkonkoma,2,2013,95.1,88.2,95.1,88,2013-02,February
+Greenport/Ronkonkoma,1,2013,95.1,88.4,95.1,88.4,2013-01,January
+Greenport/Ronkonkoma,12,2012,95.1,91.7,95.1,89.5,2012-12,December
+Greenport/Ronkonkoma,11,2012,95.1,91.9,95.1,83.4,2012-11,November
+Greenport/Ronkonkoma,10,2012,95.1,92.7,95.1,93.8,2012-10,October
+Greenport/Ronkonkoma,9,2012,95.1,92.6,95.1,93.2,2012-09,September
+Greenport/Ronkonkoma,8,2012,95.1,92.5,95.1,92.6,2012-08,August
+Greenport/Ronkonkoma,7,2012,95.1,92.5,95.1,87.8,2012-07,July
+Greenport/Ronkonkoma,6,2012,95.1,93.3,95.1,88.7,2012-06,June
+Greenport/Ronkonkoma,5,2012,95.1,94.2,95.1,92.8,2012-05,May
+Greenport/Ronkonkoma,4,2012,95.1,94.5,95.1,94,2012-04,April
+Greenport/Ronkonkoma,3,2012,95.1,94.7,95.1,93.7,2012-03,March
+Greenport/Ronkonkoma,2,2012,95.1,95.2,95.1,95,2012-02,February
+Greenport/Ronkonkoma,1,2012,95.1,95.3,95.1,95.3,2012-01,January
+Greenport/Ronkonkoma,12,2011,95.1,91.2,95.1,94.2,2011-12,December
+Greenport/Ronkonkoma,11,2011,95.1,90.9,95.1,91.4,2011-11,November
+Greenport/Ronkonkoma,10,2011,95.1,90.9,95.1,91.3,2011-10,October
+Greenport/Ronkonkoma,9,2011,95.1,90.8,95.1,87.1,2011-09,September
+Greenport/Ronkonkoma,8,2011,95.1,91.3,95.1,89.4,2011-08,August
+Greenport/Ronkonkoma,7,2011,95.1,91.5,95.1,92.2,2011-07,July
+Greenport/Ronkonkoma,6,2011,95.1,91.4,95.1,91.5,2011-06,June
+Greenport/Ronkonkoma,5,2011,95.1,91.4,95.1,91.5,2011-05,May
+Greenport/Ronkonkoma,4,2011,95.1,91.4,95.1,94.1,2011-04,April
+Greenport/Ronkonkoma,3,2011,95.1,90.5,95.1,92.4,2011-03,March
+Greenport/Ronkonkoma,2,2011,95.1,89.5,95.1,93.4,2011-02,February
+Greenport/Ronkonkoma,1,2011,95.1,86,95.1,86,2011-01,January
+Greenport/Ronkonkoma,12,2010,95.1,90.2,95.1,83.8,2010-12,December
+Greenport/Ronkonkoma,11,2010,95.1,90.7,95.1,92.3,2010-11,November
+Greenport/Ronkonkoma,10,2010,95.1,90.5,95.1,91.8,2010-10,October
+Greenport/Ronkonkoma,9,2010,95.1,90.4,95.1,90.7,2010-09,September
+Greenport/Ronkonkoma,8,2010,95.1,90.4,95.1,87.9,2010-08,August
+Greenport/Ronkonkoma,7,2010,95.1,90.7,95.1,89.9,2010-07,July
+Greenport/Ronkonkoma,6,2010,95.1,90.9,95.1,90.6,2010-06,June
+Greenport/Ronkonkoma,5,2010,95.1,90.9,95.1,90.9,2010-05,May
+Greenport/Ronkonkoma,4,2010,95.1,90.9,95.1,89.4,2010-04,April
+Greenport/Ronkonkoma,3,2010,95.1,91.4,95.1,88.5,2010-03,March
+Greenport/Ronkonkoma,2,2010,95.1,93,95.1,90.9,2010-02,February
+Greenport/Ronkonkoma,1,2010,95.1,95,95.1,95,2010-01,January
+Greenport/Ronkonkoma,12,2009,0,92.7,0,86.8,2009-12,December
+Greenport/Ronkonkoma,11,2009,0,93.3,0,92.7,2009-11,November
+Greenport/Ronkonkoma,10,2009,0,93.3,0,91.9,2009-10,October
+Greenport/Ronkonkoma,9,2009,0,93.5,0,94.6,2009-09,September
+Greenport/Ronkonkoma,8,2009,0,93.3,0,95.1,2009-08,August
+Greenport/Ronkonkoma,7,2009,0,93.1,0,92.3,2009-07,July
+Greenport/Ronkonkoma,6,2009,0,93.2,0,93,2009-06,June
+Greenport/Ronkonkoma,5,2009,0,93.3,0,94.2,2009-05,May
+Greenport/Ronkonkoma,4,2009,0,93,0,95.8,2009-04,April
+Greenport/Ronkonkoma,3,2009,0,92.1,0,92.7,2009-03,March
+Greenport/Ronkonkoma,2,2009,0,91.7,0,93.2,2009-02,February
+Greenport/Ronkonkoma,1,2009,0,90.3,0,90.3,2009-01,January
+Greenport/Ronkonkoma,12,2008,0,92.8,0,93.4,2008-12,December
+Greenport/Ronkonkoma,11,2008,0,92.8,0,89.2,2008-11,November
+Greenport/Ronkonkoma,10,2008,0,93.1,0,91.7,2008-10,October
+Greenport/Ronkonkoma,9,2008,0,93.3,0,93.4,2008-09,September
+Greenport/Ronkonkoma,8,2008,0,93.3,0,93.3,2008-08,August
+Greenport/Ronkonkoma,7,2008,0,93.3,0,91.9,2008-07,July
+Greenport/Ronkonkoma,6,2008,0,93.5,0,92.4,2008-06,June
+Greenport/Ronkonkoma,5,2008,0,93.7,0,94.7,2008-05,May
+Greenport/Ronkonkoma,4,2008,0,93.4,0,93.6,2008-04,April
+Greenport/Ronkonkoma,3,2008,0,93.4,0,92.6,2008-03,March
+Greenport/Ronkonkoma,2,2008,0,93.8,0,93.2,2008-02,February
+Greenport/Ronkonkoma,1,2008,0,94.3,0,94.3,2008-01,January
+West Hempstead,11,2018,95.8,93.9,95.8,90.5,2018-11,November
+West Hempstead,10,2018,95.8,94.2,95.8,96,2018-10,October
+West Hempstead,9,2018,95.8,94,95.8,97.3,2018-09,September
+West Hempstead,8,2018,95.8,93.6,95.8,94.5,2018-08,August
+West Hempstead,7,2018,95.8,93.4,95.8,95.7,2018-07,July
+West Hempstead,6,2018,95.8,93,95.8,96.3,2018-06,June
+West Hempstead,5,2018,95.8,92.4,95.8,95.9,2018-05,May
+West Hempstead,4,2018,95.8,91.5,95.8,96.1,2018-04,April
+West Hempstead,3,2018,95.8,90,95.8,90.3,2018-03,March
+West Hempstead,2,2018,95.8,89.8,95.8,94,2018-02,February
+West Hempstead,1,2018,95.8,86,95.8,86,2018-01,January
+West Hempstead,12,2017,95.8,94.9,95.8,93.5,2017-12,December
+West Hempstead,11,2017,95.8,95,95.8,95.2,2017-11,November
+West Hempstead,10,2017,95.8,95,95.8,95.5,2017-10,October
+West Hempstead,9,2017,95.8,94.9,95.8,96.7,2017-09,September
+West Hempstead,8,2017,95.8,94.7,95.8,96.6,2017-08,August
+West Hempstead,7,2017,95.8,94.4,95.8,94.6,2017-07,July
+West Hempstead,6,2017,95.8,94.4,95.8,95,2017-06,June
+West Hempstead,5,2017,95.8,94.2,95.8,94.6,2017-05,May
+West Hempstead,4,2017,95.8,94.1,95.8,94.9,2017-04,April
+West Hempstead,3,2017,95.8,93.9,95.8,94.6,2017-03,March
+West Hempstead,2,2017,95.8,93.5,95.8,92.2,2017-02,February
+West Hempstead,1,2017,95.8,94.7,95.8,94.7,2017-01,January
+West Hempstead,12,2016,95.8,96.4,95.8,95.1,2016-12,December
+West Hempstead,11,2016,95.8,96.5,95.8,96.1,2016-11,November
+West Hempstead,10,2016,95.8,96.5,95.8,97,2016-10,October
+West Hempstead,9,2016,95.8,96.5,95.8,97.9,2016-09,September
+West Hempstead,8,2016,95.8,96.3,95.8,97,2016-08,August
+West Hempstead,7,2016,95.8,96.2,95.8,93.5,2016-07,July
+West Hempstead,6,2016,95.8,96.7,95.8,97.3,2016-06,June
+West Hempstead,5,2016,95.8,96.5,95.8,98,2016-05,May
+West Hempstead,4,2016,95.8,96.1,95.8,96.8,2016-04,April
+West Hempstead,3,2016,95.8,95.9,95.8,97.7,2016-03,March
+West Hempstead,2,2016,95.8,95,95.8,95.3,2016-02,February
+West Hempstead,1,2016,95.8,94.8,95.8,94.8,2016-01,January
+West Hempstead,12,2015,95.8,95,95.8,95.4,2015-12,December
+West Hempstead,11,2015,95.8,94.9,95.8,93.5,2015-11,November
+West Hempstead,10,2015,95.8,94.68,95.8,94.9,2015-10,October
+West Hempstead,9,2015,95.8,95,95.8,95.3,2015-09,September
+West Hempstead,8,2015,95.8,95,95.8,95.6,2015-08,August
+West Hempstead,7,2015,95.8,94.9,95.8,95.2,2015-07,July
+West Hempstead,6,2015,95.8,94.8,95.8,94.4,2015-06,June
+West Hempstead,5,2015,95.8,94.9,95.8,95.5,2015-05,May
+West Hempstead,4,2015,95.8,94.8,95.8,96.9,2015-04,April
+West Hempstead,3,2015,95.8,94.04,95.8,95.5,2015-03,March
+West Hempstead,2,2015,95.8,93.25,95.8,92.62,2015-02,February
+West Hempstead,1,2015,95.8,93.8,95.8,93.8,2015-01,January
+West Hempstead,12,2014,95.1,94.3,95.1,90.1,2014-12,December
+West Hempstead,11,2014,95.1,94.7,95.1,94.9,2014-11,November
+West Hempstead,10,2014,95.1,94.7,95.1,94.4,2014-10,October
+West Hempstead,9,2014,95.1,94.8,95.1,94.6,2014-09,September
+West Hempstead,8,2014,95.1,94.8,95.1,95.6,2014-08,August
+West Hempstead,7,2014,95.1,94.7,95.1,95.8,2014-07,July
+West Hempstead,6,2014,95.1,94.5,95.1,94.8,2014-06,June
+West Hempstead,5,2014,95.1,94.5,95.1,94,2014-05,May
+West Hempstead,4,2014,95.1,94.6,95.1,96.1,2014-04,April
+West Hempstead,3,2014,95.1,94,95.1,94.9,2014-03,March
+West Hempstead,2,2014,95.1,93.5,95.1,95.8,2014-02,February
+West Hempstead,1,2014,95.1,91.2,95.1,91.2,2014-01,January
+West Hempstead,12,2013,95.1,95.2,95.1,94.4,2013-12,December
+West Hempstead,11,2013,95.1,95.3,95.1,93.7,2013-11,November
+West Hempstead,10,2013,95.1,95.4,95.1,96.1,2013-10,October
+West Hempstead,9,2013,95.1,95.3,95.1,94.5,2013-09,September
+West Hempstead,8,2013,95.1,95.4,95.1,94.4,2013-08,August
+West Hempstead,7,2013,95.1,95.6,95.1,94.5,2013-07,July
+West Hempstead,6,2013,95.1,95.8,95.1,97,2013-06,June
+West Hempstead,5,2013,95.1,95.5,95.1,96.1,2013-05,May
+West Hempstead,4,2013,95.1,95.4,95.1,96.2,2013-04,April
+West Hempstead,3,2013,95.1,95.1,95.1,94.6,2013-03,March
+West Hempstead,2,2013,95.1,95.3,95.1,93.5,2013-02,February
+West Hempstead,1,2013,95.1,96.8,95.1,96.8,2013-01,January
+West Hempstead,12,2012,95.1,95.9,95.1,94.2,2012-12,December
+West Hempstead,11,2012,95.1,96,95.1,84.7,2012-11,November
+West Hempstead,10,2012,95.1,96.9,95.1,95.8,2012-10,October
+West Hempstead,9,2012,95.1,97,95.1,97.2,2012-09,September
+West Hempstead,8,2012,95.1,96.9,95.1,95.4,2012-08,August
+West Hempstead,7,2012,95.1,97.2,95.1,96.7,2012-07,July
+West Hempstead,6,2012,95.1,97.3,95.1,96.4,2012-06,June
+West Hempstead,5,2012,95.1,97.5,95.1,97.6,2012-05,May
+West Hempstead,4,2012,95.1,97.4,95.1,97.8,2012-04,April
+West Hempstead,3,2012,95.1,97.3,95.1,97,2012-03,March
+West Hempstead,2,2012,95.1,97.5,95.1,97.5,2012-02,February
+West Hempstead,1,2012,95.1,97.5,95.1,97.5,2012-01,January
+West Hempstead,12,2011,95.1,96.3,95.1,97.6,2011-12,December
+West Hempstead,11,2011,95.1,96.2,95.1,97.5,2011-11,November
+West Hempstead,10,2011,95.1,96.1,95.1,97.6,2011-10,October
+West Hempstead,9,2011,95.1,95.9,95.1,94.1,2011-09,September
+West Hempstead,8,2011,95.1,96.1,95.1,96.4,2011-08,August
+West Hempstead,7,2011,95.1,96.1,95.1,94,2011-07,July
+West Hempstead,6,2011,95.1,96.4,95.1,96.8,2011-06,June
+West Hempstead,5,2011,95.1,96.3,95.1,95.5,2011-05,May
+West Hempstead,4,2011,95.1,96.5,95.1,97.5,2011-04,April
+West Hempstead,3,2011,95.1,96.2,95.1,98.1,2011-03,March
+West Hempstead,2,2011,95.1,95.1,95.1,97.9,2011-02,February
+West Hempstead,1,2011,95.1,92.5,95.1,92.5,2011-01,January
+West Hempstead,12,2010,95.1,96.2,95.1,95.4,2010-12,December
+West Hempstead,11,2010,95.1,95.3,95.1,97.9,2010-11,November
+West Hempstead,10,2010,95.1,95.1,95.1,98.3,2010-10,October
+West Hempstead,9,2010,95.1,94.8,95.1,96.4,2010-09,September
+West Hempstead,8,2010,95.1,94.6,95.1,77.6,2010-08,August
+West Hempstead,7,2010,95.1,97.1,95.1,95.8,2010-07,July
+West Hempstead,6,2010,95.1,97.3,95.1,97.8,2010-06,June
+West Hempstead,5,2010,95.1,97.2,95.1,96.2,2010-05,May
+West Hempstead,4,2010,95.1,97.5,95.1,96.1,2010-04,April
+West Hempstead,3,2010,95.1,98,95.1,97.4,2010-03,March
+West Hempstead,2,2010,95.1,98.3,95.1,97.8,2010-02,February
+West Hempstead,1,2010,95.1,98.7,95.1,98.7,2010-01,January
+West Hempstead,12,2009,0,97.7,0,97.1,2009-12,December
+West Hempstead,11,2009,0,97.8,0,97.3,2009-11,November
+West Hempstead,10,2009,0,97.8,0,97.8,2009-10,October
+West Hempstead,9,2009,0,97.8,0,97.7,2009-09,September
+West Hempstead,8,2009,0,97.8,0,98,2009-08,August
+West Hempstead,7,2009,0,97.8,0,97.8,2009-07,July
+West Hempstead,6,2009,0,97.8,0,98.3,2009-06,June
+West Hempstead,5,2009,0,97.7,0,98.1,2009-05,May
+West Hempstead,4,2009,0,97.6,0,98.6,2009-04,April
+West Hempstead,3,2009,0,97.2,0,95.4,2009-03,March
+West Hempstead,2,2009,0,98,0,98.2,2009-02,February
+West Hempstead,1,2009,0,97.9,0,97.9,2009-01,January
+West Hempstead,12,2008,0,97.5,0,98.3,2008-12,December
+West Hempstead,11,2008,0,97.4,0,96.4,2008-11,November
+West Hempstead,10,2008,0,97.6,0,96.9,2008-10,October
+West Hempstead,9,2008,0,97.6,0,97.7,2008-09,September
+West Hempstead,8,2008,0,97.6,0,98.3,2008-08,August
+West Hempstead,7,2008,0,97.5,0,96.7,2008-07,July
+West Hempstead,6,2008,0,97.6,0,98.1,2008-06,June
+West Hempstead,5,2008,0,97.6,0,98.4,2008-05,May
+West Hempstead,4,2008,0,97.3,0,97.4,2008-04,April
+West Hempstead,3,2008,0,97.3,0,97.2,2008-03,March
+West Hempstead,2,2008,0,97.4,0,96.6,2008-02,February
+West Hempstead,1,2008,0,98.2,0,98.2,2008-01,January
