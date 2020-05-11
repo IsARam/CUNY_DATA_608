@@ -1,0 +1,60 @@
+---
+output:
+  html_document: default
+---
+
+For the DATA 608 Final project, I wanted to visualize Long Island Rail Road (LIRR) On-Time Performance (OTP) data. The metric OTP is the percent of commuter trains that arrive at their destinations within 5 minutes and 59 seconds of the scheduled time. The LIRR expects to acheive a system-wide on-time performance target of at least 95%.This visualization will help to answer the following questions:
+
+1. Which branches have the best/worst average OTP performance for a given year? 
+
+2. Has OTP performance deteriorated over time?
+
+---
+
+There are two visualizations, `OTP By Branch` and `OTP By Year`. The data source for both visualizations was obtained from the [MTA's Developer Reources]( http://web.mta.info/persdashboard/perxml/MTA_Performance_Datall.zip).The [data dictionary](http://web.mta.info/developers/Performance_Indicators_by%20Agency.xls) provides additional context to the data.
+
+`OTP By Branch` shows the Annual Average OTP for each branch is descending order for a given year, ranging from 2008 to 2018. The year is selected by a drop down. The parameters of the data are *Branch* and *Annual Average OTP %*. 
+
+The data shows the following: <br>
+
+**2008** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Port Jefferson <br>
+**2009** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Montauk <br>
+**2010** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Montauk <br>
+**2011** - Highest Performing Branch: Hempstead, Lowest Performing Branch: Montauk <br>
+**2012** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Port Jefferson <br>
+**2013** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Montauk <br>
+**2014** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Port Jefferson <br>
+**2015** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Port Jefferson <br>
+**2016** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Port Jefferson <br>
+**2017** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Montauk<br>
+**2018** - Highest Performing Branch: Far Rockaway, Lowest Performing Branch: Greenport/Ronkonkoma <br>
+
+Year over year, Far Rockaway has the best OTP and Montauk/ Port Jefferson have the lowest OTP.
+
+`OTP By Year` shows Average OTP for each branch compared to the overall average OTP, ranging from 2008 to 2018. Branch is selected by a drop down. The parameters of the data are *Branch* and *Average OTP %*. 
+
+The data shows the following: <br>
+
+**Babylon** - Highest Performance Year: 2008, Lowest Performance Year: 2018 <br>
+**Far Rockaway** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+**Hicksville/Huntington** - Highest Performance Year: 2008, Lowest Performance Year: 2015 <br>
+**Hempstead** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+**Long Beach** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+**Montauk** - Highest Performance Year: 2008, Lowest Performance Year: 2018 <br>
+**Oyster Bay** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+**Port Jefferson** - Highest Performance Year: 2009, Lowest Performance Year: 2015 <br>
+**Port Washington** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+**Greenport/Ronkonkoma** - Highest Performance Year: 2008, Lowest Performance Year: 2018 <br>
+**West Hempstead** - Highest Performance Year: 2009, Lowest Performance Year: 2018 <br>
+
+The following branches fall under the Overall Average OTP:<br>
+Babylon, Hicksville/Huntington, Montauk, Port Jefferson, Greenport/Ronkonkoma
+
+The following branches are greater than the Overall Average OTP:<br>
+Far Rockaway, Hempstead, Long Beach, West Hempstead
+
+It does appear that OTP performance deteriorated over time for all branches.
+
+
+ 
+
