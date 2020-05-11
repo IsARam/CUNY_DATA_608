@@ -37,6 +37,24 @@ ui <- fluidPage(
                       )))
     ),
     tabPanel(
+      tagList(shiny::icon('bar-chart'), "Yearly OTP By Branch"),
+      sidebarLayout(
+        sidebarPanel(
+          helpText(
+            'To view On-Time Performance of each branch for a given year,
+            select a year from the drop down menu.'
+          ),
+          selectizeInput(
+            inputId = "year",
+            label = "Select Year",
+            unique(df$Period.Year),
+            selected = '2018'
+          )
+        ),
+        mainPanel(plotOutput("plot1"))
+      )
+    ),
+    tabPanel(
       tagList(shiny::icon('chart-line'), "Performance Over Time"),
       fluid = TRUE,
       sidebarLayout(
