@@ -16,7 +16,7 @@ library(plotly)
 
 #Get clean data
 df <- readr::read_csv("./Performance_DF_Cleaner.csv")
-assoc_df <- readr::read_csv("./assoc_df.csv")
+#assoc_df <- readr::read_csv("./assoc_df.csv")
 
 #####################################################################################
 #UI
@@ -33,26 +33,8 @@ ui <- fluidPage(
                       br(),
                       column(
                         12,
-                        img(src = './lirr_map.png', style = 'width:100%; border:0px;')
+                        
                       )))
-    ),
-    tabPanel(
-      tagList(shiny::icon('bar-chart'), "Yearly OTP By Branch"),
-      sidebarLayout(
-        sidebarPanel(
-          helpText(
-            'To view On-Time Performance of each branch for a given year,
-            select a year from the drop down menu.'
-          ),
-          selectizeInput(
-            inputId = "year",
-            label = "Select Year",
-            unique(df$Period.Year),
-            selected = '2018'
-          )
-        ),
-        mainPanel(plotOutput("plot1"))
-      )
     ),
     tabPanel(
       tagList(shiny::icon('chart-line'), "Performance Over Time"),
@@ -72,11 +54,9 @@ ui <- fluidPage(
           htmlOutput('text1')
           
         ),
-        mainPanel(plotOutput("plot3"),
-                  plotOutput("plot4"))
+        mainPanel(plotOutput("plot3"))
       )
-   
-      
+  
     ),
     
     tabPanel((tagList(
