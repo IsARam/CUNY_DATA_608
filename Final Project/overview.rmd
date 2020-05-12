@@ -5,9 +5,9 @@ output:
 
 For the DATA 608 Final project, I wanted to visualize Long Island Rail Road (LIRR) On-Time Performance (OTP) data. The metric OTP is the percent of commuter trains that arrive at their destinations within 5 minutes and 59 seconds of the scheduled time. The LIRR expects to acheive a system-wide on-time performance target of at least 95%.This visualization will help to answer the following questions:
 
-1. Which branches have the best/worst average OTP performance for a given year? 
+1. Which branches have the best/worst average OTP for a given year? 
 
-2. Has OTP performance deteriorated over time?
+2. How has OTP gotten over time?
 
 ---
 
@@ -53,7 +53,7 @@ Babylon, Hicksville/Huntington, Montauk, Port Jefferson, Greenport/Ronkonkoma
 The following branches are greater than the Overall Average OTP:<br>
 Far Rockaway, Hempstead, Long Beach, West Hempstead
 
-It does appear that OTP performance deteriorated over time for all branches.
+It does appear that OTP performance has gotten worse over time for all branches.
 
 
  
